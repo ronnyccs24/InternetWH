@@ -1,0 +1,85 @@
+product,value,year,indicator
+Chrome,61.18,2016,Desktop Share
+Firefox,15.45,2016,Desktop Share
+IE,12.11,2016,Desktop Share
+Safari,4.79,2016,Desktop Share
+Edge,2.64,2016,Desktop Share
+Opera,1.89,2016,Desktop Share
+Yandex Browser,0.5,2016,Desktop Share
+Other,1.44,2016,Desktop Share
+Chrome,63.58,2017,Desktop Share
+Firefox,13.73,2017,Desktop Share
+IE,8.61,2017,Desktop Share
+Safari,5.51,2017,Desktop Share
+Edge,3.95,2017,Desktop Share
+Opera,2.36,2017,Desktop Share
+Yandex Browser,0.52,2017,Desktop Share
+Other,1.74,2017,Desktop Share
+Chrome,3.92,2017,Desktop Share YoY change
+Firefox,-11.13,2017,Desktop Share YoY change
+IE,-28.90,2017,Desktop Share YoY change
+Safari,15.03,2017,Desktop Share YoY change
+Edge,49.62,2017,Desktop Share YoY change
+Opera,24.87,2017,Desktop Share YoY change
+Yandex Browser,4.00,2017,Desktop Share YoY change
+Other,20.83,2017,Desktop Share YoY change
+Chrome,53.97,2016,Desktop NetMarketShare
+Firefox,7.69,2016,Desktop NetMarketShare
+IE,24.38,2016,Desktop NetMarketShare
+Safari,4.28,2016,Desktop NetMarketShare
+Edge,5.16,2016,Desktop NetMarketShare
+Other,1.51,2016,Desktop NetMarketShare
+Chrome,59.38,2017,Desktop NetMarketShare
+Firefox,12.28,2017,Desktop NetMarketShare
+IE,15.58,2017,Desktop NetMarketShare
+Safari,3.87,2017,Desktop NetMarketShare
+Edge,5.66,2017,Desktop NetMarketShare
+Other,3.23,2017,Desktop NetMarketShare
+Chrome,10.02,2017,Desktop NetMarketShare YoY change
+Firefox,59.69,2017,Desktop NetMarketShare YoY change
+IE,-36.10,2017,Desktop NetMarketShare YoY change
+Safari,-9.58,2017,Desktop NetMarketShare YoY change
+Edge,9.69,2017,Desktop NetMarketShare YoY change
+Other,113.91,2017,Desktop NetMarketShare YoY change
+Chrome,36.41,2016,Mobile share
+Safari,22.35,2016,Mobile share
+UC Browser,15.88,2016,Mobile share
+Opera,9.22,2016,Mobile share
+Android,8.15,2016,Mobile share
+Samsung Internet,4.8,2016,Mobile share
+IEMobile,1.28,2016,Mobile share
+Other,1.91,2016,Mobile share
+Chrome,48.53,2017,Mobile share
+Safari,21.92,2017,Mobile share
+UC Browser,12.77,2017,Mobile share
+Opera,5.24,2017,Mobile share
+Android,3.91,2017,Mobile share
+Samsung Internet,6.07,2017,Mobile share
+IEMobile,0.55,2017,Mobile share
+Other,1.01,2017,Mobile share
+Chrome,33.29,2017,Mobile share YoY Change
+Safari,-1.92,2017,Mobile share YoY Change
+UC Browser,-19.58,2017,Mobile share YoY Change
+Opera,-43.17,2017,Mobile share YoY Change
+Android,-52.02,2017,Mobile share YoY Change
+Samsung Internet,26.46,2017,Mobile share YoY Change
+IEMobile,-57.03,2017,Mobile share YoY Change
+Other,-47.12,2017,Mobile share YoY Change
+Chrome,52.48,2016,Mobile NetMarketShare
+Safari,27.87,2016,Mobile NetMarketShare
+Android Browser,8.57,2016,Mobile NetMarketShare
+Opera Mini,6.74,2016,Mobile NetMarketShare
+Firefox,0.57,2016,Mobile NetMarketShare
+Other,3.76,2016,Mobile NetMarketShare
+Chrome,57.14,2017,Mobile NetMarketShare
+Safari,33.14,2017,Mobile NetMarketShare
+Android Browser,4.73,2017,Mobile NetMarketShare
+Opera Mini,2.57,2017,Mobile NetMarketShare
+Firefox,0.54,2017,Mobile NetMarketShare
+Other,1.88,2017,Mobile NetMarketShare
+Chrome,8.88,2017,Mobile NetMarketShare YoY change
+Safari,18.91,2017,Mobile NetMarketShare YoY change
+Android Browser,-44.81,2017,Mobile NetMarketShare YoY change
+Opera Mini,-61.87,2017,Mobile NetMarketShare YoY change
+Firefox,-5.26,2017,Mobile NetMarketShare YoY change
+Other,-50.00,2017,Mobile NetMarketShare YoY change

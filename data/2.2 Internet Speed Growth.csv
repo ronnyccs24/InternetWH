@@ -1,0 +1,187 @@
+region,value,year,indicator
+Africa,1181802,2012,count
+Africa,1017123,2013,count
+Africa,1009276,2014,count
+Africa,686491,2015,count
+Africa,1853620,2016,count
+Africa,230307,2017,count
+North America,7512342,2012,count
+North America,6004239,2013,count
+North America,5783507,2014,count
+North America,6462305,2015,count
+North America,107712238,2016,count
+North America,42591917,2017,count
+Europe,26483502,2012,count
+Europe,20457002,2013,count
+Europe,18930210,2014,count
+Europe,13886321,2015,count
+Europe,41982942,2016,count
+Europe,4745796,2017,count
+South America,3204093,2012,count
+South America,3106088,2013,count
+South America,2272229,2014,count
+South America,1461057,2015,count
+South America,3850020,2016,count
+South America,417166,2017,count
+Asia,7854399,2012,count
+Asia,6204096,2013,count
+Asia,6292201,2014,count
+Asia,4717425,2015,count
+Asia,13756826,2016,count
+Asia,1538018,2017,count
+Australia,689466,2012,count
+Australia,487394,2013,count
+Australia,569832,2014,count
+Australia,447900,2015,count
+Australia,4807146,2016,count
+Australia,2918486,2017,count
+Africa,0.16,2012,upload_speed_mbps_median
+Africa,0.196,2013,upload_speed_mbps_median
+Africa,0.234,2014,upload_speed_mbps_median
+Africa,0.248,2015,upload_speed_mbps_median
+Africa,0.31,2016,upload_speed_mbps_median
+Africa,0.349,2017,upload_speed_mbps_median
+North America,0.782,2012,upload_speed_mbps_median
+North America,0.876,2013,upload_speed_mbps_median
+North America,1.18,2014,upload_speed_mbps_median
+North America,1.841,2015,upload_speed_mbps_median
+North America,4.039,2016,upload_speed_mbps_median
+North America,4.361,2017,upload_speed_mbps_median
+Europe,0.618,2012,upload_speed_mbps_median
+Europe,0.689,2013,upload_speed_mbps_median
+Europe,0.759,2014,upload_speed_mbps_median
+Europe,1.12,2015,upload_speed_mbps_median
+Europe,2.264,2016,upload_speed_mbps_median
+Europe,2.97,2017,upload_speed_mbps_median
+South America,0.338,2012,upload_speed_mbps_median
+South America,0.363,2013,upload_speed_mbps_median
+South America,0.357,2014,upload_speed_mbps_median
+South America,0.362,2015,upload_speed_mbps_median
+South America,0.433,2016,upload_speed_mbps_median
+South America,0.473,2017,upload_speed_mbps_median
+Asia,0.27,2012,upload_speed_mbps_median
+Asia,0.314,2013,upload_speed_mbps_median
+Asia,0.397,2014,upload_speed_mbps_median
+Asia,0.5,2015,upload_speed_mbps_median
+Asia,0.77,2016,upload_speed_mbps_median
+Asia,1.313,2017,upload_speed_mbps_median
+Australia,0.408,2012,upload_speed_mbps_median
+Australia,0.456,2013,upload_speed_mbps_median
+Australia,0.498,2014,upload_speed_mbps_median
+Australia,0.485,2015,upload_speed_mbps_median
+Australia,0.567,2016,upload_speed_mbps_median
+Australia,0.614,2017,upload_speed_mbps_median
+Africa,250.816,2012,rtt_avg
+Africa,222.444,2013,rtt_avg
+Africa,183.472,2014,rtt_avg
+Africa,136.598,2015,rtt_avg
+Africa,126.367,2016,rtt_avg
+Africa,106.816,2017,rtt_avg
+North America,83.435,2012,rtt_avg
+North America,77.569,2013,rtt_avg
+North America,78.729,2014,rtt_avg
+North America,68.785,2015,rtt_avg
+North America,54.46,2016,rtt_avg
+North America,56.017,2017,rtt_avg
+Europe,85.953,2012,rtt_avg
+Europe,80.68,2013,rtt_avg
+Europe,75.443,2014,rtt_avg
+Europe,64.486,2015,rtt_avg
+Europe,65.137,2016,rtt_avg
+Europe,62.672,2017,rtt_avg
+South America,202.887,2012,rtt_avg
+South America,201.758,2013,rtt_avg
+South America,213.057,2014,rtt_avg
+South America,223.79,2015,rtt_avg
+South America,213.51,2016,rtt_avg
+South America,186.224,2017,rtt_avg
+Asia,192.934,2012,rtt_avg
+Asia,212.9,2013,rtt_avg
+Asia,131.375,2014,rtt_avg
+Asia,96.292,2015,rtt_avg
+Asia,95.426,2016,rtt_avg
+Asia,78.75,2017,rtt_avg
+Australia,99.826,2012,rtt_avg
+Australia,99.5,2013,rtt_avg
+Australia,80.731,2014,rtt_avg
+Australia,76.777,2015,rtt_avg
+Australia,79.641,2016,rtt_avg
+Australia,91.011,2017,rtt_avg
+Africa,0.043,2012,retransmit_avg
+Africa,0.043,2013,retransmit_avg
+Africa,0.042,2014,retransmit_avg
+Africa,0.045,2015,retransmit_avg
+Africa,0.045,2016,retransmit_avg
+Africa,0.042,2017,retransmit_avg
+North America,0.014,2012,retransmit_avg
+North America,0.016,2013,retransmit_avg
+North America,0.014,2014,retransmit_avg
+North America,0.013,2015,retransmit_avg
+North America,0.017,2016,retransmit_avg
+North America,0.017,2017,retransmit_avg
+Europe,0.017,2012,retransmit_avg
+Europe,0.015,2013,retransmit_avg
+Europe,0.014,2014,retransmit_avg
+Europe,0.015,2015,retransmit_avg
+Europe,0.015,2016,retransmit_avg
+Europe,0.016,2017,retransmit_avg
+South America,0.021,2012,retransmit_avg
+South America,0.02,2013,retransmit_avg
+South America,0.021,2014,retransmit_avg
+South America,0.021,2015,retransmit_avg
+South America,0.03,2016,retransmit_avg
+South America,0.037,2017,retransmit_avg
+Asia,0.04,2012,retransmit_avg
+Asia,0.036,2013,retransmit_avg
+Asia,0.031,2014,retransmit_avg
+Asia,0.032,2015,retransmit_avg
+Asia,0.033,2016,retransmit_avg
+Asia,0.033,2017,retransmit_avg
+Australia,0.014,2012,retransmit_avg
+Australia,0.016,2013,retransmit_avg
+Australia,0.014,2014,retransmit_avg
+Australia,0.019,2015,retransmit_avg
+Australia,0.024,2016,retransmit_avg
+Australia,0.025,2017,retransmit_avg
+Africa,0.502,2012,download_speed_mbps_median
+Africa,0.586,2013,download_speed_mbps_median
+Africa,0.728,2014,download_speed_mbps_median
+Africa,0.858,2015,download_speed_mbps_median
+Africa,1.009,2016,download_speed_mbps_median
+Africa,1.273,2017,download_speed_mbps_median
+North America,4.754,2012,download_speed_mbps_median
+North America,3.54,2013,download_speed_mbps_median
+North America,5.429,2014,download_speed_mbps_median
+North America,8.385,2015,download_speed_mbps_median
+North America,11.417,2016,download_speed_mbps_median
+North America,11.009,2017,download_speed_mbps_median
+Europe,4.133,2012,download_speed_mbps_median
+Europe,4.721,2013,download_speed_mbps_median
+Europe,5.176,2014,download_speed_mbps_median
+Europe,5.662,2015,download_speed_mbps_median
+Europe,7.49,2016,download_speed_mbps_median
+Europe,7.363,2017,download_speed_mbps_median
+South America,1.31,2012,download_speed_mbps_median
+South America,1.262,2013,download_speed_mbps_median
+South America,0.957,2014,download_speed_mbps_median
+South America,1,2015,download_speed_mbps_median
+South America,0.805,2016,download_speed_mbps_median
+South America,0.367,2017,download_speed_mbps_median
+Asia,0.671,2012,download_speed_mbps_median
+Asia,0.752,2013,download_speed_mbps_median
+Asia,1.041,2014,download_speed_mbps_median
+Asia,1.281,2015,download_speed_mbps_median
+Asia,1.551,2016,download_speed_mbps_median
+Asia,2.082,2017,download_speed_mbps_median
+Australia,3.632,2012,download_speed_mbps_median
+Australia,3.473,2013,download_speed_mbps_median
+Australia,4.497,2014,download_speed_mbps_median
+Australia,3.664,2015,download_speed_mbps_median
+Australia,3.717,2016,download_speed_mbps_median
+Australia,3.528,2017,download_speed_mbps_median
+Africa,26.16451933,2017,YoY Change
+Asia,34.23597679,2017,YoY Change
+Australia,-5.084745763,2017,YoY Change
+Europe,-1.695594126,2017,YoY Change
+North America,-3.573618289,2017,YoY Change
+South America,-54.40993789,2017,YoY Change

@@ -1,0 +1,116 @@
+year,region,iso2,iso3,ODB-Rank,country,ODB-Score-Scaled,ODB-Score-Change,Rank-Change
+2016,Europe & Central Asia,GB,GBR,1,United Kingdom,100,0,0
+2016,North America,CA,CAN,2,Canada,89.54,9.19,2
+2016,Europe & Central Asia,FR,FRA,3,France,85.13,3.48,-1
+2016,North America,US,USA,4,United States of America,81.62,-0.27,-2
+2016,East Asia & Pacific,KR,KOR,5,Korea,81.16,9.97,3
+2016,East Asia & Pacific,AU,AUS,5,Australia,81.15,13.16,5
+2016,East Asia & Pacific,NZ,NZL,7,New Zealand,79.38,3.03,-1
+2016,East Asia & Pacific,JP,JPN,8,Japan,75.16,11.66,5
+2016,Europe & Central Asia,NL,NLD,8,Netherlands,74.95,-0.18,-1
+2016,Europe & Central Asia,NO,NOR,10,Norway,73.81,13.21,7
+2016,Sub-Saharan Africa,MX,MEX,11,Mexico,73.45,11.69,5
+2016,Europe & Central Asia,ES,ESP,11,Spain,73.36,9.01,2
+2016,Europe & Central Asia,DK,DNK,13,Denmark,70.52,-6.1,-8
+2016,Europe & Central Asia,AT,AUT,14,Austria,70.22,6.04,-1
+2016,Europe & Central Asia,SE,SWE,14,Sweden,69.84,0.58,-5
+2016,Europe & Central Asia,DE,DEU,14,Germany,69.52,4.73,-3
+2016,Latin America & Caribbean,UY,URY,17,Uruguay,60.85,2.73,2
+2016,Latin America & Caribbean,BR,BRA,18,Brazil,58.86,-2.3,-1
+2016,Europe & Central Asia,CH,CHE,19,Switzerland,57.46,2.82,1
+2016,Europe & Central Asia,IT,ITA,20,Italy,55.93,2.15,1
+2016,Europe & Central Asia,FI,FIN,20,Finland,55.89,-9.56,-9
+2016,East Asia & Pacific,PH,PHL,22,Philippines,54.7,17.76,14
+2016,East Asia & Pacific,SG,SGP,23,Singapore,52.69,1.24,1
+2016,Latin America & Caribbean,CO,COL,24,Colombia,51.65,6.26,4
+2016,Europe & Central Asia,RU,RUS,25,Russia,48.53,17.04,16
+2016,Europe & Central Asia,IE,IRL,26,Ireland,47.44,0.91,1
+2016,Latin America & Caribbean,CL,CHL,26,Chile,47.41,4.44,4
+2016,Middle East & North Africa,IL,ISR,28,Israel,46.26,2.55,1
+2016,Europe & Central Asia,BE,BEL,29,Belgium,45.28,-7.34,-7
+2016,Europe & Central Asia,SK,SVK,29,Slovakia,44.9,7.74,7
+2016,Europe & Central Asia,CZ,CZE,31,Czech Republic,44.44,-4.71,-5
+2016,Europe & Central Asia,MD,MDA,31,Moldova,43.68,5.25,2
+2016,South Asia,IN,IND,33,India,42.8,8.82,5
+2016,Europe & Central Asia,PT,PRT,34,Portugal,41.89,0.51,-3
+2016,Sub-Saharan Africa,KE,KEN,35,Kenya,40.42,10.55,7
+2016,Europe & Central Asia,GR,GRC,36,Greece,38.94,0.46,-3
+2016,Europe & Central Asia,IS,ISL,36,Iceland,38.87,-13.86,-14
+2016,East Asia & Pacific,ID,IDN,38,Indonesia,38.35,6.54,2
+2016,Latin America & Caribbean,AR,ARG,38,Argentina,37.51,13.73,14
+2016,Europe & Central Asia,GE,GEO,40,Georgia,37.44,20.65,20
+2016,Europe & Central Asia,BG,BGR,40,Bulgaria,37.14,,
+2016,Latin America & Caribbean,JM,JAM,40,Jamaica,36.95,15.3,13
+2016,Europe & Central Asia,TR,TUR,40,Turkey,36.88,9.82,7
+2016,Europe & Central Asia,EE,EST,44,Estonia,36.31,-14.32,-20
+2016,Europe & Central Asia,UA,UKR,44,Ukraine,35.96,19.89,18
+2016,Sub-Saharan Africa,ZA,ZAF,46,South Africa,34.43,7.66,1
+2016,Europe & Central Asia,PL,POL,46,Poland,33.95,-6,-14
+2016,Latin America & Caribbean,PE,PER,48,Peru,33.33,4.4,-4
+2016,Europe & Central Asia,MK,MKD,48,Macedonia,32.58,-5.55,-15
+2016,Europe & Central Asia,AL,ALB,50,Albania,32.43,,
+2016,Latin America & Caribbean,DO,DOM,50,Dominican Republic,32.21,,
+2016,Middle East & North Africa,TN,TUN,50,Tunisia,32.17,-1.2,-11
+2016,Latin America & Caribbean,PY,PRY,53,Paraguay,28.07,12.08,9
+2016,East Asia & Pacific,MY,MYS,53,Malaysia,28.06,3.46,-2
+2016,Europe & Central Asia,LV,LVA,53,Latvia,27.89,,
+2016,Latin America & Caribbean,BO,BOL,53,Bolivia,27.87,,
+2016,East Asia & Pacific,TH,THA,53,Thailand,27.55,11.56,9
+2016,Europe & Central Asia,HR,HRV,58,Croatia,26.75,,
+2016,Sub-Saharan Africa,MU,MUS,59,Mauritius,26.3,3.97,-6
+2016,Middle East & North Africa,AE,ARE,59,United Arab Emirates,26.17,-0.83,-12
+2016,Europe & Central Asia,KZ,KAZ,59,Kazakhstan,26.1,6.01,-3
+2016,Sub-Saharan Africa,GH,GHA,59,Ghana,25.96,15.77,11
+2016,Latin America & Caribbean,GT,GTM,63,Guatemala,23.72,,
+2016,Europe & Central Asia,XK,XKX,63,Kosovo,23.67,,
+2016,Europe & Central Asia,HU,HUN,65,Hungary,23.3,-2.24,-15
+2016,Europe & Central Asia,RS,SRB,65,Serbia,22.77,,
+2016,Sub-Saharan Africa,TZ,TZA,67,Tanzania,21.73,10.96,2
+2016,Sub-Saharan Africa,BF,BFA,67,Burkina Faso,21.63,11.51,3
+2016,Latin America & Caribbean,EC,ECU,67,Ecuador,21.62,-8.67,-25
+2016,Sub-Saharan Africa,NG,NGA,70,Nigeria,20.97,6.84,-3
+2016,Latin America & Caribbean,CR,CRI,71,Costa Rica,19.87,-8.65,-27
+2016,East Asia & Pacific,CN,CHN,71,China,19.64,-1.52,-16
+2016,Sub-Saharan Africa,RW,RWA,71,Rwanda,19.62,-7.93,-25
+2016,Middle East & North Africa,QA,QAT,74,Qatar,19.26,2.73,-14
+2016,Middle East & North Africa,BH,BHR,74,Bahrain,18.91,0.77,-17
+2016,Middle East & North Africa,SA,SAU,74,Saudi Arabia,18.66,0.94,-17
+2016,Latin America & Caribbean,TT,TTO,77,Trinidad and Tobago,17.99,,
+2016,Latin America & Caribbean,PA,PAN,77,Panama,17.9,,
+2016,Middle East & North Africa,MA,MAR,79,Morocco,16.86,0.69,-17
+2016,East Asia & Pacific,VN,VNM,79,Vietnam,16.79,-1.51,-22
+2016,Sub-Saharan Africa,ET,ETH,81,Ethiopia,16.14,9.51,-3
+2016,Sub-Saharan Africa,TG,TGO,81,Togo,15.65,,
+2016,South Asia,NP,NPL,83,Nepal,15.49,2.4,-15
+2016,Europe & Central Asia,ME,MNE,83,Montenegro,14.54,,
+2016,Middle East & North Africa,EG,EGY,85,Egypt,13.89,5.15,-10
+2016,Latin America & Caribbean,SV,SLV,85,El Salvador,13.88,,
+2016,Europe & Central Asia,KG,KGZ,87,Kyrgyzstan,13.24,,
+2016,Middle East & North Africa,JO,JOR,87,Jordan,12.58,2.26,-17
+2016,Latin America & Caribbean,LC,LCA,87,Saint Lucia,12.53,-2.12,-21
+2016,Sub-Saharan Africa,CD,COD,90,DR Congo,12.38,,
+2016,Latin America & Caribbean,VE,VEN,90,Venezuela,11.62,4.83,-12
+2016,Sub-Saharan Africa,UG,UGA,90,Uganda,11.59,1.67,-20
+2016,Sub-Saharan Africa,CI,CIV,93,Cote d'ivoire,11.48,,
+2016,Europe & Central Asia,BY,BLR,93,Belarus,10.95,,
+2016,South Asia,BD,BGD,93,Bangladesh,10.57,3.52,-15
+2016,Sub-Saharan Africa,MW,MWI,93,Malawi,10.51,3.12,-15
+2016,Europe & Central Asia,TJ,TJK,97,Tajikistan,9.7,,
+2016,Sub-Saharan Africa,,NAM,98,Namibia,9.08,1.73,-20
+2016,Sub-Saharan Africa,SN,SEN,98,Senegal,8.74,-1.59,-28
+2016,Sub-Saharan Africa,SL,SLE,100,Sierra Leone,8.47,3.02,-14
+2016,Middle East & North Africa,PS,PSE,100,Palestine,8.24,,
+2016,Europe & Central Asia,BA,BIH,100,Bosnia and Herzegovina,8.02,,
+2016,Sub-Saharan Africa,BJ,BEN,103,Benin,7.32,-1.15,-27
+2016,Latin America & Caribbean,HT,HTI,104,Haiti,6.27,6.27,-12
+2016,Sub-Saharan Africa,BW,BWA,104,Botswana,5.89,-0.62,-26
+2016,Middle East & North Africa,LB,LBN,104,Lebanon,5.82,,
+2016,Sub-Saharan Africa,CM,CMR,107,Cameroon,5.15,-1.42,-29
+2016,Sub-Saharan Africa,ZM,ZMB,108,Zambia,3.82,-1.09,-22
+2016,South Asia,PK,PAK,108,Pakistan,3.59,-2.64,-23
+2016,Sub-Saharan Africa,MZ,MOZ,110,Mozambique,3.46,-4.68,-34
+2016,Sub-Saharan Africa,ML,MLI,111,Mali,2.46,-1.52,-23
+2016,Sub-Saharan Africa,ZW,ZWE,111,Zimbabwe,1.87,-1.51,-21
+2016,East Asia & Pacific,MM,MMR,113,Myanmar,1.33,-2.23,-25
+2016,Sub-Saharan Africa,SZ,SWZ,114,Swaziland,0.28,,
+2016,Middle East & North Africa,YE,YEM,114,Yemen,0,-1.43,-23

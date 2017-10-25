@@ -1,0 +1,601 @@
+country,value,year,indicator
+Australia,83.32616898,2014,Mobile connectivity Index
+Norway,81.27731979,2014,Mobile connectivity Index
+New Zealand,80.25960616,2014,Mobile connectivity Index
+Finland,79.7695104,2014,Mobile connectivity Index
+Singapore,79.96353374,2014,Mobile connectivity Index
+Sweden,80.39481061,2014,Mobile connectivity Index
+Denmark,79.08030723,2014,Mobile connectivity Index
+Netherlands,79.2954935,2014,Mobile connectivity Index
+Iceland,78.8132527,2014,Mobile connectivity Index
+Switzerland,79.34968318,2014,Mobile connectivity Index
+Ireland,77.28991576,2014,Mobile connectivity Index
+Canada,78.7659687,2014,Mobile connectivity Index
+"Korea, South",77.78588354,2014,Mobile connectivity Index
+United Kingdom,77.40376383,2014,Mobile connectivity Index
+Germany,76.46517899,2014,Mobile connectivity Index
+Austria,78.71867474,2014,Mobile connectivity Index
+United States of America,76.30592555,2014,Mobile connectivity Index
+Belgium,76.09628271,2014,Mobile connectivity Index
+Hong Kong,76.55743668,2014,Mobile connectivity Index
+France,75.34094636,2014,Mobile connectivity Index
+Japan,75.94742165,2014,Mobile connectivity Index
+Spain,74.29456099,2014,Mobile connectivity Index
+Estonia,75.81090619,2014,Mobile connectivity Index
+Slovenia,74.08003422,2014,Mobile connectivity Index
+Luxembourg,74.30324259,2014,Mobile connectivity Index
+Lithuania,73.6052009,2014,Mobile connectivity Index
+Cyprus,69.01689509,2014,Mobile connectivity Index
+Portugal,73.7812663,2014,Mobile connectivity Index
+Czech Republic,71.74191889,2014,Mobile connectivity Index
+Italy,72.19862042,2014,Mobile connectivity Index
+Poland,70.52268708,2014,Mobile connectivity Index
+Israel,71.49032502,2014,Mobile connectivity Index
+Qatar,68.61820357,2014,Mobile connectivity Index
+Hungary,70.67812069,2014,Mobile connectivity Index
+Latvia,71.12035282,2014,Mobile connectivity Index
+Croatia,69.38090727,2014,Mobile connectivity Index
+Slovakia,71.11389429,2014,Mobile connectivity Index
+Greece,68.56628061,2014,Mobile connectivity Index
+Malta,67.13240871,2014,Mobile connectivity Index
+United Arab Emirates,66.49999731,2014,Mobile connectivity Index
+Romania,67.63911446,2014,Mobile connectivity Index
+Chile,65.99090562,2014,Mobile connectivity Index
+Uruguay,65.06944599,2014,Mobile connectivity Index
+Bulgaria,64.40325564,2014,Mobile connectivity Index
+China,63.40597468,2014,Mobile connectivity Index
+Russian Federation,64.79647704,2014,Mobile connectivity Index
+Montenegro,57.26674286,2014,Mobile connectivity Index
+Malaysia,64.86234638,2014,Mobile connectivity Index
+Belarus,62.62564196,2014,Mobile connectivity Index
+Kazakhstan,61.56419274,2014,Mobile connectivity Index
+Saudi Arabia,64.92542526,2014,Mobile connectivity Index
+Bahrain,66.12279886,2014,Mobile connectivity Index
+Kuwait,64.40424834,2014,Mobile connectivity Index
+Thailand,62.49073976,2014,Mobile connectivity Index
+Serbia,56.06953957,2014,Mobile connectivity Index
+Argentina,61.16196338,2014,Mobile connectivity Index
+Trinidad and Tobago,61.89031436,2014,Mobile connectivity Index
+Moldova,60.46349243,2014,Mobile connectivity Index
+Brunei Darussalam,62.17667713,2014,Mobile connectivity Index
+Georgia,53.75206744,2014,Mobile connectivity Index
+Costa Rica,60.84311088,2014,Mobile connectivity Index
+Ukraine,60.92105884,2014,Mobile connectivity Index
+Mexico,59.78729467,2014,Mobile connectivity Index
+Peru,57.54085904,2014,Mobile connectivity Index
+Mongolia,52.52270047,2014,Mobile connectivity Index
+Belize,56.24321577,2014,Mobile connectivity Index
+Turkey,56.47561105,2014,Mobile connectivity Index
+Panama,57.36097589,2014,Mobile connectivity Index
+Macedonia,54.08787379,2014,Mobile connectivity Index
+Oman,59.7238903,2014,Mobile connectivity Index
+Lebanon,58.87072686,2014,Mobile connectivity Index
+Colombia,58.19699087,2014,Mobile connectivity Index
+Dominican Republic,56.85462169,2014,Mobile connectivity Index
+Venezuela,57.90929288,2014,Mobile connectivity Index
+Brazil,60.93932219,2014,Mobile connectivity Index
+Mauritius,57.0704694,2014,Mobile connectivity Index
+Philippines,54.89137459,2014,Mobile connectivity Index
+Ecuador,56.80595297,2014,Mobile connectivity Index
+Sri Lanka,50.42571758,2014,Mobile connectivity Index
+Bolivia,54.42235603,2014,Mobile connectivity Index
+Jamaica,52.87579864,2014,Mobile connectivity Index
+Bosnia and Herzegovina,51.76119212,2014,Mobile connectivity Index
+Azerbaijan,49.37997139,2014,Mobile connectivity Index
+South Africa,54.26308742,2014,Mobile connectivity Index
+Vietnam,51.60478336,2014,Mobile connectivity Index
+Jordan,52.85403815,2014,Mobile connectivity Index
+El Salvador,52.19522058,2014,Mobile connectivity Index
+Fiji,53.34524898,2014,Mobile connectivity Index
+Tunisia,51.34977886,2014,Mobile connectivity Index
+Honduras,50.39588923,2014,Mobile connectivity Index
+Saint Lucia,51.74542422,2014,Mobile connectivity Index
+Albania,48.9217646,2014,Mobile connectivity Index
+Guatemala,48.3975137,2014,Mobile connectivity Index
+Paraguay,49.57289071,2014,Mobile connectivity Index
+Morocco,47.44258801,2014,Mobile connectivity Index
+Egypt,53.11158379,2014,Mobile connectivity Index
+Kyrgyzstan,45.15828243,2014,Mobile connectivity Index
+Nicaragua,48.83944168,2014,Mobile connectivity Index
+Algeria,45.47421525,2014,Mobile connectivity Index
+Indonesia,46.80361943,2014,Mobile connectivity Index
+Iran,42.83218039,2014,Mobile connectivity Index
+Botswana,45.48074472,2014,Mobile connectivity Index
+Namibia,46.86607455,2014,Mobile connectivity Index
+Cambodia,38.96153109,2014,Mobile connectivity Index
+Myanmar,39.79539222,2014,Mobile connectivity Index
+Ghana,44.02161024,2014,Mobile connectivity Index
+India,39.68463074,2014,Mobile connectivity Index
+Uzbekistan,42.54552149,2014,Mobile connectivity Index
+Bangladesh,41.62251732,2014,Mobile connectivity Index
+Angola,40.99120219,2014,Mobile connectivity Index
+Iraq,42.36852108,2014,Mobile connectivity Index
+Laos,36.49441655,2014,Mobile connectivity Index
+Bhutan,36.39759231,2014,Mobile connectivity Index
+Gabon,39.5177989,2014,Mobile connectivity Index
+Nepal,34.20034899,2014,Mobile connectivity Index
+Swaziland,37.10245377,2014,Mobile connectivity Index
+Nigeria,36.01566863,2014,Mobile connectivity Index
+Kenya,35.12065775,2014,Mobile connectivity Index
+Papua New Guinea,32.71117722,2014,Mobile connectivity Index
+Lesotho,33.35936714,2014,Mobile connectivity Index
+Sudan,34.35206228,2014,Mobile connectivity Index
+Ethiopia,26.4834264,2014,Mobile connectivity Index
+Solomon Islands,32.18228695,2014,Mobile connectivity Index
+Zimbabwe,32.01253295,2014,Mobile connectivity Index
+Cameroon,31.27494507,2014,Mobile connectivity Index
+Pakistan,32.63214742,2014,Mobile connectivity Index
+Congo,32.8813773,2014,Mobile connectivity Index
+Tanzania,27.19657132,2014,Mobile connectivity Index
+Yemen,33.83859178,2014,Mobile connectivity Index
+Rwanda,30.06958555,2014,Mobile connectivity Index
+Cote d'Ivoire,28.93247646,2014,Mobile connectivity Index
+Senegal,30.31462804,2014,Mobile connectivity Index
+Zambia,30.95432899,2014,Mobile connectivity Index
+Mozambique,29.21430369,2014,Mobile connectivity Index
+Sierra Leone,27.05463283,2014,Mobile connectivity Index
+Gambia,29.90138795,2014,Mobile connectivity Index
+Mauritania,25.19326027,2014,Mobile connectivity Index
+Liberia,25.24922671,2014,Mobile connectivity Index
+Madagascar,25.52646271,2014,Mobile connectivity Index
+Uganda,23.93438273,2014,Mobile connectivity Index
+Benin,26.88158261,2014,Mobile connectivity Index
+Togo,24.07254322,2014,Mobile connectivity Index
+Mali,25.58951206,2014,Mobile connectivity Index
+Burkina Faso,22.68670093,2014,Mobile connectivity Index
+Malawi,24.61932193,2014,Mobile connectivity Index
+Afghanistan,18.85531069,2014,Mobile connectivity Index
+Guinea,14.13204923,2014,Mobile connectivity Index
+Chad,17.55470183,2014,Mobile connectivity Index
+"Congo, Democratic Republic",14.43232581,2014,Mobile connectivity Index
+Niger,15.25519854,2014,Mobile connectivity Index
+Australia,85.0958792,2015,Mobile connectivity Index
+Norway,84.60828818,2015,Mobile connectivity Index
+New Zealand,82.36164285,2015,Mobile connectivity Index
+Finland,81.26421546,2015,Mobile connectivity Index
+Singapore,82.64384241,2015,Mobile connectivity Index
+Sweden,81.68324319,2015,Mobile connectivity Index
+Denmark,80.76698716,2015,Mobile connectivity Index
+Netherlands,80.65447511,2015,Mobile connectivity Index
+Iceland,81.32729325,2015,Mobile connectivity Index
+Switzerland,81.30553686,2015,Mobile connectivity Index
+Ireland,80.70623161,2015,Mobile connectivity Index
+Canada,80.67965291,2015,Mobile connectivity Index
+"Korea, South",81.71226952,2015,Mobile connectivity Index
+United Kingdom,80.40185076,2015,Mobile connectivity Index
+Germany,80.44048387,2015,Mobile connectivity Index
+Austria,80.20979301,2015,Mobile connectivity Index
+United States of America,77.81281934,2015,Mobile connectivity Index
+Belgium,78.64902277,2015,Mobile connectivity Index
+Hong Kong,77.84623516,2015,Mobile connectivity Index
+France,77.00449001,2015,Mobile connectivity Index
+Japan,77.16126839,2015,Mobile connectivity Index
+Spain,76.34079244,2015,Mobile connectivity Index
+Estonia,77.83733389,2015,Mobile connectivity Index
+Slovenia,76.26792286,2015,Mobile connectivity Index
+Luxembourg,76.08434098,2015,Mobile connectivity Index
+Lithuania,76.49221411,2015,Mobile connectivity Index
+Cyprus,71.78691251,2015,Mobile connectivity Index
+Portugal,75.47978139,2015,Mobile connectivity Index
+Czech Republic,74.30140979,2015,Mobile connectivity Index
+Italy,74.05744428,2015,Mobile connectivity Index
+Poland,73.86390446,2015,Mobile connectivity Index
+Israel,73.75766932,2015,Mobile connectivity Index
+Qatar,71.39940079,2015,Mobile connectivity Index
+Hungary,72.98123355,2015,Mobile connectivity Index
+Latvia,73.38282619,2015,Mobile connectivity Index
+Croatia,71.80579139,2015,Mobile connectivity Index
+Slovakia,72.43991961,2015,Mobile connectivity Index
+Greece,69.89457104,2015,Mobile connectivity Index
+Malta,69.62856387,2015,Mobile connectivity Index
+United Arab Emirates,69.84572869,2015,Mobile connectivity Index
+Romania,69.97668936,2015,Mobile connectivity Index
+Chile,68.50416833,2015,Mobile connectivity Index
+Uruguay,69.41152937,2015,Mobile connectivity Index
+Bulgaria,67.76373479,2015,Mobile connectivity Index
+China,67.34141133,2015,Mobile connectivity Index
+Russian Federation,68.21299707,2015,Mobile connectivity Index
+Montenegro,58.73720963,2015,Mobile connectivity Index
+Malaysia,67.02326408,2015,Mobile connectivity Index
+Belarus,65.93881528,2015,Mobile connectivity Index
+Kazakhstan,64.24159629,2015,Mobile connectivity Index
+Saudi Arabia,66.38435688,2015,Mobile connectivity Index
+Bahrain,67.09959416,2015,Mobile connectivity Index
+Kuwait,65.50696326,2015,Mobile connectivity Index
+Thailand,64.56359819,2015,Mobile connectivity Index
+Serbia,60.88898247,2015,Mobile connectivity Index
+Argentina,65.7397434,2015,Mobile connectivity Index
+Trinidad and Tobago,64.40790414,2015,Mobile connectivity Index
+Moldova,64.41272087,2015,Mobile connectivity Index
+Brunei Darussalam,64.82438346,2015,Mobile connectivity Index
+Georgia,58.46766245,2015,Mobile connectivity Index
+Costa Rica,64.20033722,2015,Mobile connectivity Index
+Ukraine,63.11454884,2015,Mobile connectivity Index
+Mexico,62.73452296,2015,Mobile connectivity Index
+Peru,60.1875024,2015,Mobile connectivity Index
+Mongolia,56.3025701,2015,Mobile connectivity Index
+Belize,59.57496539,2015,Mobile connectivity Index
+Turkey,60.7441234,2015,Mobile connectivity Index
+Panama,62.04400181,2015,Mobile connectivity Index
+Macedonia,56.4565679,2015,Mobile connectivity Index
+Oman,61.8262309,2015,Mobile connectivity Index
+Lebanon,60.93255541,2015,Mobile connectivity Index
+Colombia,60.44292628,2015,Mobile connectivity Index
+Dominican Republic,59.21982078,2015,Mobile connectivity Index
+Venezuela,60.77931334,2015,Mobile connectivity Index
+Brazil,60.51036066,2015,Mobile connectivity Index
+Mauritius,60.96138645,2015,Mobile connectivity Index
+Philippines,57.99133985,2015,Mobile connectivity Index
+Ecuador,59.26699668,2015,Mobile connectivity Index
+Sri Lanka,54.06161942,2015,Mobile connectivity Index
+Bolivia,57.57992217,2015,Mobile connectivity Index
+Jamaica,59.14002463,2015,Mobile connectivity Index
+Bosnia and Herzegovina,54.66613177,2015,Mobile connectivity Index
+Azerbaijan,52.35179872,2015,Mobile connectivity Index
+South Africa,57.39767357,2015,Mobile connectivity Index
+Vietnam,55.10169936,2015,Mobile connectivity Index
+Jordan,57.6571328,2015,Mobile connectivity Index
+El Salvador,55.2249057,2015,Mobile connectivity Index
+Fiji,56.19274555,2015,Mobile connectivity Index
+Tunisia,53.30540923,2015,Mobile connectivity Index
+Honduras,52.92425652,2015,Mobile connectivity Index
+Saint Lucia,54.41238612,2015,Mobile connectivity Index
+Albania,53.07987418,2015,Mobile connectivity Index
+Guatemala,53.30312688,2015,Mobile connectivity Index
+Paraguay,53.39431275,2015,Mobile connectivity Index
+Morocco,51.76046231,2015,Mobile connectivity Index
+Egypt,54.93763713,2015,Mobile connectivity Index
+Kyrgyzstan,46.80999543,2015,Mobile connectivity Index
+Nicaragua,51.85231093,2015,Mobile connectivity Index
+Algeria,48.4963408,2015,Mobile connectivity Index
+Indonesia,49.03015573,2015,Mobile connectivity Index
+Iran,47.72782748,2015,Mobile connectivity Index
+Botswana,48.17099642,2015,Mobile connectivity Index
+Namibia,48.59721367,2015,Mobile connectivity Index
+Cambodia,41.78837599,2015,Mobile connectivity Index
+Myanmar,44.6704553,2015,Mobile connectivity Index
+Ghana,44.95617036,2015,Mobile connectivity Index
+India,43.77829344,2015,Mobile connectivity Index
+Uzbekistan,45.70748242,2015,Mobile connectivity Index
+Bangladesh,44.93819191,2015,Mobile connectivity Index
+Angola,45.23343367,2015,Mobile connectivity Index
+Iraq,45.39089919,2015,Mobile connectivity Index
+Laos,42.2179397,2015,Mobile connectivity Index
+Bhutan,41.49657161,2015,Mobile connectivity Index
+Gabon,41.90391296,2015,Mobile connectivity Index
+Nepal,38.03305124,2015,Mobile connectivity Index
+Swaziland,39.62834037,2015,Mobile connectivity Index
+Nigeria,39.25238984,2015,Mobile connectivity Index
+Kenya,38.07330922,2015,Mobile connectivity Index
+Papua New Guinea,36.75297673,2015,Mobile connectivity Index
+Lesotho,37.12947379,2015,Mobile connectivity Index
+Sudan,37.34476774,2015,Mobile connectivity Index
+Ethiopia,31.1965036,2015,Mobile connectivity Index
+Solomon Islands,35.16005322,2015,Mobile connectivity Index
+Zimbabwe,34.72027512,2015,Mobile connectivity Index
+Cameroon,32.94607328,2015,Mobile connectivity Index
+Pakistan,34.49245446,2015,Mobile connectivity Index
+Congo,35.64183278,2015,Mobile connectivity Index
+Tanzania,29.82689563,2015,Mobile connectivity Index
+Yemen,34.58690893,2015,Mobile connectivity Index
+Rwanda,34.35021971,2015,Mobile connectivity Index
+Cote d'Ivoire,31.4264518,2015,Mobile connectivity Index
+Senegal,32.51675466,2015,Mobile connectivity Index
+Zambia,32.10206942,2015,Mobile connectivity Index
+Mozambique,32.19545898,2015,Mobile connectivity Index
+Sierra Leone,30.26069029,2015,Mobile connectivity Index
+Gambia,31.28928464,2015,Mobile connectivity Index
+Mauritania,29.12934983,2015,Mobile connectivity Index
+Liberia,29.03212903,2015,Mobile connectivity Index
+Madagascar,31.24685105,2015,Mobile connectivity Index
+Uganda,27.03460997,2015,Mobile connectivity Index
+Benin,28.70721019,2015,Mobile connectivity Index
+Togo,27.41761654,2015,Mobile connectivity Index
+Mali,26.36071776,2015,Mobile connectivity Index
+Burkina Faso,26.06331851,2015,Mobile connectivity Index
+Malawi,26.48922025,2015,Mobile connectivity Index
+Afghanistan,21.24747126,2015,Mobile connectivity Index
+Guinea,19.77667787,2015,Mobile connectivity Index
+Chad,17.03189331,2015,Mobile connectivity Index
+"Congo, Democratic Republic",15.84545287,2015,Mobile connectivity Index
+Niger,16.20306901,2015,Mobile connectivity Index
+Australia,87.28659778,2016,Mobile connectivity Index
+Norway,85.4664305,2016,Mobile connectivity Index
+New Zealand,85.17465953,2016,Mobile connectivity Index
+Finland,83.89522249,2016,Mobile connectivity Index
+Singapore,83.41982109,2016,Mobile connectivity Index
+Sweden,83.20610119,2016,Mobile connectivity Index
+Denmark,82.91744176,2016,Mobile connectivity Index
+Netherlands,82.74237335,2016,Mobile connectivity Index
+Iceland,82.71397496,2016,Mobile connectivity Index
+Switzerland,82.70840103,2016,Mobile connectivity Index
+Ireland,82.44345065,2016,Mobile connectivity Index
+Canada,82.21917773,2016,Mobile connectivity Index
+"Korea, South",82.1181319,2016,Mobile connectivity Index
+United Kingdom,82.07988468,2016,Mobile connectivity Index
+Germany,81.99531153,2016,Mobile connectivity Index
+Austria,81.54047338,2016,Mobile connectivity Index
+United States of America,80.56212452,2016,Mobile connectivity Index
+Belgium,80.16526058,2016,Mobile connectivity Index
+Hong Kong,80.01107188,2016,Mobile connectivity Index
+France,79.73400985,2016,Mobile connectivity Index
+Japan,79.16882248,2016,Mobile connectivity Index
+Spain,78.91054847,2016,Mobile connectivity Index
+Estonia,78.52527821,2016,Mobile connectivity Index
+Slovenia,78.41414699,2016,Mobile connectivity Index
+Luxembourg,78.25817132,2016,Mobile connectivity Index
+Lithuania,77.6372238,2016,Mobile connectivity Index
+Cyprus,77.60022996,2016,Mobile connectivity Index
+Portugal,77.11921238,2016,Mobile connectivity Index
+Czech Republic,76.94545138,2016,Mobile connectivity Index
+Italy,76.23398203,2016,Mobile connectivity Index
+Poland,75.96876429,2016,Mobile connectivity Index
+Israel,75.833605,2016,Mobile connectivity Index
+Qatar,75.74344679,2016,Mobile connectivity Index
+Hungary,75.16712993,2016,Mobile connectivity Index
+Latvia,75.16222824,2016,Mobile connectivity Index
+Croatia,74.34671822,2016,Mobile connectivity Index
+Slovakia,74.25118684,2016,Mobile connectivity Index
+Greece,72.94126148,2016,Mobile connectivity Index
+Malta,72.61054771,2016,Mobile connectivity Index
+United Arab Emirates,72.29344436,2016,Mobile connectivity Index
+Romania,71.51028973,2016,Mobile connectivity Index
+Chile,71.35855729,2016,Mobile connectivity Index
+Uruguay,71.33254749,2016,Mobile connectivity Index
+Bulgaria,71.06450015,2016,Mobile connectivity Index
+China,70.72547494,2016,Mobile connectivity Index
+Russian Federation,70.34128668,2016,Mobile connectivity Index
+Montenegro,70.14730092,2016,Mobile connectivity Index
+Malaysia,69.84807599,2016,Mobile connectivity Index
+Belarus,69.61039444,2016,Mobile connectivity Index
+Kazakhstan,69.25992192,2016,Mobile connectivity Index
+Saudi Arabia,68.85715909,2016,Mobile connectivity Index
+Bahrain,68.67140104,2016,Mobile connectivity Index
+Kuwait,68.58736867,2016,Mobile connectivity Index
+Thailand,68.05316561,2016,Mobile connectivity Index
+Serbia,67.71821241,2016,Mobile connectivity Index
+Argentina,67.62261634,2016,Mobile connectivity Index
+Trinidad and Tobago,67.54246297,2016,Mobile connectivity Index
+Moldova,67.16482399,2016,Mobile connectivity Index
+Brunei Darussalam,66.35242219,2016,Mobile connectivity Index
+Georgia,66.3446827,2016,Mobile connectivity Index
+Costa Rica,66.13700175,2016,Mobile connectivity Index
+Ukraine,65.98688538,2016,Mobile connectivity Index
+Mexico,65.98317698,2016,Mobile connectivity Index
+Peru,65.40126687,2016,Mobile connectivity Index
+Mongolia,64.50174643,2016,Mobile connectivity Index
+Belize,64.44659761,2016,Mobile connectivity Index
+Turkey,64.33211412,2016,Mobile connectivity Index
+Panama,64.07564831,2016,Mobile connectivity Index
+Macedonia,63.65211794,2016,Mobile connectivity Index
+Oman,63.62446107,2016,Mobile connectivity Index
+Lebanon,63.22221469,2016,Mobile connectivity Index
+Colombia,62.98507167,2016,Mobile connectivity Index
+Dominican Republic,62.98455711,2016,Mobile connectivity Index
+Venezuela,62.79176455,2016,Mobile connectivity Index
+Brazil,62.74510224,2016,Mobile connectivity Index
+Mauritius,62.71108013,2016,Mobile connectivity Index
+Philippines,61.79898708,2016,Mobile connectivity Index
+Ecuador,61.22452135,2016,Mobile connectivity Index
+Sri Lanka,61.0621337,2016,Mobile connectivity Index
+Bolivia,60.89654748,2016,Mobile connectivity Index
+Jamaica,60.86940435,2016,Mobile connectivity Index
+Bosnia and Herzegovina,60.76080198,2016,Mobile connectivity Index
+Azerbaijan,60.38216914,2016,Mobile connectivity Index
+South Africa,59.97240091,2016,Mobile connectivity Index
+Vietnam,59.65443855,2016,Mobile connectivity Index
+Jordan,59.10966256,2016,Mobile connectivity Index
+El Salvador,58.32778385,2016,Mobile connectivity Index
+Fiji,58.00715278,2016,Mobile connectivity Index
+Tunisia,57.41568729,2016,Mobile connectivity Index
+Honduras,56.77233104,2016,Mobile connectivity Index
+Saint Lucia,56.67980756,2016,Mobile connectivity Index
+Albania,56.33206916,2016,Mobile connectivity Index
+Guatemala,55.92192986,2016,Mobile connectivity Index
+Paraguay,55.56299052,2016,Mobile connectivity Index
+Morocco,55.14172275,2016,Mobile connectivity Index
+Egypt,54.95479493,2016,Mobile connectivity Index
+Kyrgyzstan,54.68964088,2016,Mobile connectivity Index
+Nicaragua,53.91126417,2016,Mobile connectivity Index
+Algeria,52.72019564,2016,Mobile connectivity Index
+Indonesia,52.71109496,2016,Mobile connectivity Index
+Iran,51.45161682,2016,Mobile connectivity Index
+Botswana,51.15694551,2016,Mobile connectivity Index
+Namibia,50.21029285,2016,Mobile connectivity Index
+Cambodia,50.12025009,2016,Mobile connectivity Index
+Myanmar,49.89788122,2016,Mobile connectivity Index
+Ghana,48.73420308,2016,Mobile connectivity Index
+India,48.54425741,2016,Mobile connectivity Index
+Uzbekistan,48.49219518,2016,Mobile connectivity Index
+Bangladesh,48.39649524,2016,Mobile connectivity Index
+Angola,48.23339278,2016,Mobile connectivity Index
+Iraq,47.52293163,2016,Mobile connectivity Index
+Laos,46.9872139,2016,Mobile connectivity Index
+Bhutan,46.41513153,2016,Mobile connectivity Index
+Gabon,46.40386939,2016,Mobile connectivity Index
+Nepal,44.43167669,2016,Mobile connectivity Index
+Swaziland,43.86490801,2016,Mobile connectivity Index
+Nigeria,42.02439915,2016,Mobile connectivity Index
+Kenya,41.65679977,2016,Mobile connectivity Index
+Papua New Guinea,41.08074811,2016,Mobile connectivity Index
+Lesotho,39.68701216,2016,Mobile connectivity Index
+Sudan,39.15847475,2016,Mobile connectivity Index
+Ethiopia,38.67378658,2016,Mobile connectivity Index
+Solomon Islands,38.66809405,2016,Mobile connectivity Index
+Zimbabwe,37.9923487,2016,Mobile connectivity Index
+Cameroon,37.91954257,2016,Mobile connectivity Index
+Pakistan,37.46148461,2016,Mobile connectivity Index
+Congo,37.44960473,2016,Mobile connectivity Index
+Tanzania,37.29115233,2016,Mobile connectivity Index
+Yemen,35.67430944,2016,Mobile connectivity Index
+Rwanda,35.63208208,2016,Mobile connectivity Index
+Cote d'Ivoire,35.51930003,2016,Mobile connectivity Index
+Senegal,35.26066315,2016,Mobile connectivity Index
+Zambia,34.9904822,2016,Mobile connectivity Index
+Mozambique,34.16447095,2016,Mobile connectivity Index
+Sierra Leone,34.13958821,2016,Mobile connectivity Index
+Gambia,33.90379364,2016,Mobile connectivity Index
+Mauritania,33.05482686,2016,Mobile connectivity Index
+Liberia,32.94229974,2016,Mobile connectivity Index
+Madagascar,32.15691461,2016,Mobile connectivity Index
+Uganda,31.58197905,2016,Mobile connectivity Index
+Benin,31.23223952,2016,Mobile connectivity Index
+Togo,29.92719692,2016,Mobile connectivity Index
+Mali,28.90535839,2016,Mobile connectivity Index
+Burkina Faso,28.58903476,2016,Mobile connectivity Index
+Malawi,27.22510018,2016,Mobile connectivity Index
+Afghanistan,23.05715012,2016,Mobile connectivity Index
+Guinea,20.31144712,2016,Mobile connectivity Index
+Chad,20.20947355,2016,Mobile connectivity Index
+"Congo, Democratic Republic",17.65612381,2016,Mobile connectivity Index
+Niger,17.22011183,2016,Mobile connectivity Index
+Australia,2.57,2016,YoY Change
+Norway,1.01,2016,YoY Change
+New Zealand,3.42,2016,YoY Change
+Finland,3.24,2016,YoY Change
+Singapore,0.94,2016,YoY Change
+Sweden,1.86,2016,YoY Change
+Denmark,2.66,2016,YoY Change
+Netherlands,2.59,2016,YoY Change
+Iceland,1.71,2016,YoY Change
+Switzerland,1.73,2016,YoY Change
+Ireland,2.15,2016,YoY Change
+Canada,1.91,2016,YoY Change
+"Korea, South",0.5,2016,YoY Change
+United Kingdom,2.09,2016,YoY Change
+Germany,1.93,2016,YoY Change
+Austria,1.66,2016,YoY Change
+United States of America,3.53,2016,YoY Change
+Belgium,1.93,2016,YoY Change
+Hong Kong,2.78,2016,YoY Change
+France,3.54,2016,YoY Change
+Japan,2.6,2016,YoY Change
+Spain,3.37,2016,YoY Change
+Estonia,0.88,2016,YoY Change
+Slovenia,2.81,2016,YoY Change
+Luxembourg,2.86,2016,YoY Change
+Lithuania,1.5,2016,YoY Change
+Cyprus,8.1,2016,YoY Change
+Portugal,2.17,2016,YoY Change
+Czech Republic,3.56,2016,YoY Change
+Italy,2.94,2016,YoY Change
+Poland,2.85,2016,YoY Change
+Israel,2.81,2016,YoY Change
+Qatar,6.08,2016,YoY Change
+Hungary,3,2016,YoY Change
+Latvia,2.42,2016,YoY Change
+Croatia,3.54,2016,YoY Change
+Slovakia,2.5,2016,YoY Change
+Greece,4.36,2016,YoY Change
+Malta,4.28,2016,YoY Change
+United Arab Emirates,3.5,2016,YoY Change
+Romania,2.19,2016,YoY Change
+Chile,4.17,2016,YoY Change
+Uruguay,2.77,2016,YoY Change
+Bulgaria,4.87,2016,YoY Change
+China,5.03,2016,YoY Change
+Russian Federation,3.12,2016,YoY Change
+Montenegro,19.43,2016,YoY Change
+Malaysia,4.21,2016,YoY Change
+Belarus,5.57,2016,YoY Change
+Kazakhstan,7.81,2016,YoY Change
+Saudi Arabia,3.72,2016,YoY Change
+Bahrain,2.34,2016,YoY Change
+Kuwait,4.7,2016,YoY Change
+Thailand,5.4,2016,YoY Change
+Serbia,11.22,2016,YoY Change
+Argentina,2.86,2016,YoY Change
+Trinidad and Tobago,4.87,2016,YoY Change
+Moldova,4.27,2016,YoY Change
+Brunei Darussalam,2.36,2016,YoY Change
+Georgia,13.47,2016,YoY Change
+Costa Rica,3.02,2016,YoY Change
+Ukraine,4.55,2016,YoY Change
+Mexico,5.18,2016,YoY Change
+Peru,8.66,2016,YoY Change
+Mongolia,14.56,2016,YoY Change
+Belize,8.18,2016,YoY Change
+Turkey,5.91,2016,YoY Change
+Panama,3.27,2016,YoY Change
+Macedonia,12.75,2016,YoY Change
+Oman,2.91,2016,YoY Change
+Lebanon,3.76,2016,YoY Change
+Colombia,4.21,2016,YoY Change
+Dominican Republic,6.36,2016,YoY Change
+Venezuela,3.31,2016,YoY Change
+Brazil,3.69,2016,YoY Change
+Mauritius,2.87,2016,YoY Change
+Philippines,6.57,2016,YoY Change
+Ecuador,3.3,2016,YoY Change
+Sri Lanka,12.95,2016,YoY Change
+Bolivia,5.76,2016,YoY Change
+Jamaica,2.92,2016,YoY Change
+Bosnia and Herzegovina,11.15,2016,YoY Change
+Azerbaijan,15.34,2016,YoY Change
+South Africa,4.49,2016,YoY Change
+Vietnam,8.26,2016,YoY Change
+Jordan,2.52,2016,YoY Change
+El Salvador,5.62,2016,YoY Change
+Fiji,3.23,2016,YoY Change
+Tunisia,7.71,2016,YoY Change
+Honduras,7.27,2016,YoY Change
+Saint Lucia,4.17,2016,YoY Change
+Albania,6.13,2016,YoY Change
+Guatemala,4.91,2016,YoY Change
+Paraguay,4.06,2016,YoY Change
+Morocco,6.53,2016,YoY Change
+Egypt,0.03,2016,YoY Change
+Kyrgyzstan,16.83,2016,YoY Change
+Nicaragua,3.97,2016,YoY Change
+Algeria,8.71,2016,YoY Change
+Indonesia,7.51,2016,YoY Change
+Iran,7.8,2016,YoY Change
+Botswana,6.2,2016,YoY Change
+Namibia,3.32,2016,YoY Change
+Cambodia,19.94,2016,YoY Change
+Myanmar,11.7,2016,YoY Change
+Ghana,8.4,2016,YoY Change
+India,10.89,2016,YoY Change
+Uzbekistan,6.09,2016,YoY Change
+Bangladesh,7.7,2016,YoY Change
+Angola,6.63,2016,YoY Change
+Iraq,4.7,2016,YoY Change
+Laos,11.3,2016,YoY Change
+Bhutan,11.85,2016,YoY Change
+Gabon,10.74,2016,YoY Change
+Nepal,16.82,2016,YoY Change
+Swaziland,10.69,2016,YoY Change
+Nigeria,7.06,2016,YoY Change
+Kenya,9.41,2016,YoY Change
+Papua New Guinea,11.78,2016,YoY Change
+Lesotho,6.89,2016,YoY Change
+Sudan,4.86,2016,YoY Change
+Ethiopia,23.97,2016,YoY Change
+Solomon Islands,9.98,2016,YoY Change
+Zimbabwe,9.42,2016,YoY Change
+Cameroon,15.1,2016,YoY Change
+Pakistan,8.61,2016,YoY Change
+Congo,5.07,2016,YoY Change
+Tanzania,25.03,2016,YoY Change
+Yemen,3.14,2016,YoY Change
+Rwanda,3.73,2016,YoY Change
+Cote d'Ivoire,13.02,2016,YoY Change
+Senegal,8.44,2016,YoY Change
+Zambia,9,2016,YoY Change
+Mozambique,6.12,2016,YoY Change
+Sierra Leone,12.82,2016,YoY Change
+Gambia,8.36,2016,YoY Change
+Mauritania,13.48,2016,YoY Change
+Liberia,13.47,2016,YoY Change
+Madagascar,2.91,2016,YoY Change
+Uganda,16.82,2016,YoY Change
+Benin,8.8,2016,YoY Change
+Togo,9.15,2016,YoY Change
+Mali,9.65,2016,YoY Change
+Burkina Faso,9.69,2016,YoY Change
+Malawi,2.78,2016,YoY Change
+Afghanistan,8.52,2016,YoY Change
+Guinea,2.7,2016,YoY Change
+Chad,18.66,2016,YoY Change
+"Congo, Democratic Republic",11.43,2016,YoY Change
+Niger,6.28,2016,YoY Change

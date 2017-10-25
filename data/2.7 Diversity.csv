@@ -1,0 +1,571 @@
+name,value,ethnic,year
+Facebook,33,Female,2016
+Instagram,31,Female,2016
+Google+,30,Female,2016
+YouTube,30,Female,2016
+LinkedIn,42,Female,2016
+Pinterest,40,Female,2016
+Tumblr,37,Female,2016
+Flickr,37,Female,2016
+Twitter,30,Female,2016
+Secret,50,Female,2016
+Yahoo!,37,Female,2016
+Google,31,Female,2016
+Apple,32,Female,2016
+Apple (excluding undeclared),30,Female,2016
+Cisco,23,Female,2016
+eBay,43,Female,2016
+HP,33,Female,2016
+Indiegogo,45,Female,2016
+Nvidia,16,Female,2016
+Dell,30,Female,2016
+Ingram Micro,42,Female,2016
+Intel,25,Female,2016
+Groupon,47,Female,2016
+Amazon,37,Female,2016
+Etsy ,51,Female,2016
+Microsoft,28,Female,2016
+Salesforce,29,Female,2016
+Pandora,49,Female,2016
+Uber,36,Female,2016
+Average in top 50 companies,54,Female,2016
+Fortune 500 CEOs,4.8,Female,2016
+Kaiser Permanente,76,Female,2016
+US Congress,19,Female,2016
+Venture Capitalists,11,Female,2016
+Facebook,67,Male,2016
+Instagram,69,Male,2016
+Google+,70,Male,2016
+YouTube,70,Male,2016
+LinkedIn,58,Male,2016
+Pinterest,60,Male,2016
+Tumblr,62,Male,2016
+Flickr,62,Male,2016
+Twitter,70,Male,2016
+Secret,50,Male,2016
+Yahoo!,62,Male,2016
+Google,69,Male,2016
+Apple,68,Male,2016
+Apple (excluding undeclared),70,Male,2016
+Cisco,77,Male,2016
+eBay,57,Male,2016
+HP,67,Male,2016
+Indiegogo,55,Male,2016
+Nvidia,84,Male,2016
+Dell,70,Male,2016
+Ingram Micro,58,Male,2016
+Intel,75,Male,2016
+Groupon,53,Male,2016
+Amazon,63,Male,2016
+Etsy ,49,Male,2016
+Microsoft,72,Male,2016
+Salesforce,71,Male,2016
+Pandora,51,Male,2016
+Uber,64,Male,2016
+Average in top 50 companies,46,Male,2016
+Fortune 500 CEOs,95,Male,2016
+Kaiser Permanente,24,Male,2016
+US Congress,81,Male,2016
+Venture Capitalists,89,Male,2016
+Facebook,53,White,2016
+Instagram,57,White,2016
+Google+,60,White,2016
+YouTube,61,White,2016
+LinkedIn,56,White,2016
+Pinterest,50,White,2016
+Tumblr,50,White,2016
+Flickr,50,White,2016
+Twitter,59,White,2016
+Secret,72,White,2016
+Yahoo!,47,White,2016
+Google,59,White,2016
+Apple,56,White,2016
+Apple (excluding undeclared),62,White,2016
+Cisco,54,White,2016
+eBay,60,White,2016
+HP,72,White,2016
+Indiegogo,64,White,2016
+Nvidia,38,White,2016
+Dell,69,White,2016
+Ingram Micro,63,White,2016
+Intel,61,White,2016
+Groupon,71,White,2016
+Amazon,60,White,2016
+Etsy ,79,White,2016
+Microsoft,59,White,2016
+Salesforce,67,White,2016
+Pandora,71,White,2016
+Uber,50,White,2016
+Average in top 50 companies,68,White,2016
+Fortune 500 CEOs,83*,White,2016
+Kaiser Permanente,48*,White,2016
+US Congress,80*,White,2016
+Venture Capitalists,87,White,2016
+Facebook,38,Asian,2016
+Instagram,34,Asian,2016
+Google+,31,Asian,2016
+YouTube,30,Asian,2016
+LinkedIn,37,Asian,2016
+Pinterest,42,Asian,2016
+Tumblr,39,Asian,2016
+Flickr,39,Asian,2016
+Twitter,29,Asian,2016
+Secret,17,Asian,2016
+Yahoo!,43,Asian,2016
+Google,32,Asian,2016
+Apple,19,Asian,2016
+Apple (excluding undeclared),21,Asian,2016
+Cisco,,Asian,2016
+eBay,25,Asian,2016
+HP,6,Asian,2016
+Indiegogo,23,Asian,2016
+Nvidia,44,Asian,2016
+Dell,9,Asian,2016
+Ingram Micro,11,Asian,2016
+Intel,26,Asian,2016
+Groupon,15,Asian,2016
+Amazon,13,Asian,2016
+Etsy ,11,Asian,2016
+Microsoft,29,Asian,2016
+Salesforce,22,Asian,2016
+Pandora,12,Asian,2016
+Uber,31,Asian,2016
+Average in top 50 companies,10,Asian,2016
+Fortune 500 CEOs,1.8,Asian,2016
+Kaiser Permanente,20,Asian,2016
+US Congress,5.6,Asian,2016
+Venture Capitalists,9,Asian,2016
+Facebook,4,Latino,2016
+Instagram,4,Latino,2016
+Google+,3,Latino,2016
+YouTube,3,Latino,2016
+LinkedIn,4,Latino,2016
+Pinterest,2,Latino,2016
+Tumblr,4,Latino,2016
+Flickr,4,Latino,2016
+Twitter,3,Latino,2016
+Secret,,Latino,2016
+Yahoo!,4,Latino,2016
+Google,3,Latino,2016
+Apple,12,Latino,2016
+Apple (excluding undeclared),13,Latino,2016
+Cisco,,Latino,2016
+eBay,5,Latino,2016
+HP,14,Latino,2016
+Indiegogo,8,Latino,2016
+Nvidia,3,Latino,2016
+Dell,11,Latino,2016
+Ingram Micro,16,Latino,2016
+Intel,9,Latino,2016
+Groupon,5,Latino,2016
+Amazon,9,Latino,2016
+Etsy ,4,Latino,2016
+Microsoft,5,Latino,2016
+Salesforce,4,Latino,2016
+Pandora,7,Latino,2016
+Uber,6,Latino,2016
+Average in top 50 companies,10,Latino,2016
+Fortune 500 CEOs,2,Latino,2016
+Kaiser Permanente,18,Latino,2016
+US Congress,6,Latino,2016
+Venture Capitalists,2,Latino,2016
+Facebook,2,Black,2016
+Instagram,2,Black,2016
+Google+,2,Black,2016
+YouTube,2,Black,2016
+LinkedIn,2,Black,2016
+Pinterest,1,Black,2016
+Tumblr,2,Black,2016
+Flickr,2,Black,2016
+Twitter,2,Black,2016
+Secret,,Black,2016
+Yahoo!,2,Black,2016
+Google,2,Black,2016
+Apple,9,Black,2016
+Apple (excluding undeclared),10,Black,2016
+Cisco,,Black,2016
+eBay,8,Black,2016
+HP,7,Black,2016
+Indiegogo,2,Black,2016
+Nvidia,1,Black,2016
+Dell,10,Black,2016
+Ingram Micro,10,Black,2016
+Intel,4,Black,2016
+Groupon,4,Black,2016
+Amazon,15,Black,2016
+Etsy ,3,Black,2016
+Microsoft,4,Black,2016
+Salesforce,2,Black,2016
+Pandora,3,Black,2016
+Uber,9,Black,2016
+Average in top 50 companies,12,Black,2016
+Fortune 500 CEOs,1.2,Black,2016
+Kaiser Permanente,13,Black,2016
+US Congress,8,Black,2016
+Venture Capitalists,2,Black,2016
+Facebook,3,Multi,2016
+Instagram,3,Multi,2016
+Google+,3,Multi,2016
+YouTube,4,Multi,2016
+LinkedIn,1,Multi,2016
+Pinterest,,Multi,2016
+Tumblr,2,Multi,2016
+Flickr,2,Multi,2016
+Twitter,3,Multi,2016
+Secret,11,Multi,2016
+Yahoo!,2,Multi,2016
+Google,3,Multi,2016
+Apple,2,Multi,2016
+Apple (excluding undeclared),2,Multi,2016
+Cisco,,Multi,2016
+eBay,1,Multi,2016
+HP,1,Multi,2016
+Indiegogo,,Multi,2016
+Nvidia,14,Multi,2016
+Dell,,Multi,2016
+Ingram Micro,,Multi,2016
+Intel,,Multi,2016
+Groupon,,Multi,2016
+Amazon,,Multi,2016
+Etsy ,3,Multi,2016
+Microsoft,1,Multi,2016
+Salesforce,2,Multi,2016
+Pandora,6,Multi,2016
+Uber,4,Multi,2016
+Average in top 50 companies,,Multi,2016
+Fortune 500 CEOs,,Multi,2016
+Kaiser Permanente,,Multi,2016
+US Congress,,Multi,2016
+Venture Capitalists,2,Multi,2016
+Facebook,0,Other,2016
+Instagram,0,Other,2016
+Google+,<1,Other,2016
+YouTube,<1,Other,2016
+LinkedIn,<1,Other,2016
+Pinterest,5,Other,2016
+Tumblr,2,Other,2016
+Flickr,2,Other,2016
+Twitter,4,Other,2016
+Secret,-,Other,2016
+Yahoo!,3,Other,2016
+Google,<1,Other,2016
+Apple,1,Other,2016
+Apple (excluding undeclared),1,Other,2016
+Cisco,,Other,2016
+eBay,1,Other,2016
+HP,<1,Other,2016
+Indiegogo,3,Other,2016
+Nvidia,<1,Other,2016
+Dell,1,Other,2016
+Ingram Micro,0,Other,2016
+Intel,1,Other,2016
+Groupon,4,Other,2016
+Amazon,3,Other,2016
+Etsy ,,Other,2016
+Microsoft,1,Other,2016
+Salesforce,3,Other,2016
+Pandora,1,Other,2016
+Uber,1,Other,2016
+Average in top 50 companies,,Other,2016
+Fortune 500 CEOs,,Other,2016
+Kaiser Permanente,,Other,2016
+US Congress,,Other,2016
+Venture Capitalists,,Other,2016
+Facebook,,Undeclared,2016
+Instagram,,Undeclared,2016
+Google+,,Undeclared,2016
+YouTube,,Undeclared,2016
+LinkedIn,,Undeclared,2016
+Pinterest,,Undeclared,2016
+Tumblr,1,Undeclared,2016
+Flickr,1,Undeclared,2016
+Twitter,,Undeclared,2016
+Secret,,Undeclared,2016
+Yahoo!,,Undeclared,2016
+Google,,Undeclared,2016
+Apple,2,Undeclared,2016
+Apple (excluding undeclared),,Undeclared,2016
+Cisco,,Undeclared,2016
+eBay,,Undeclared,2016
+HP,,Undeclared,2016
+Indiegogo,,Undeclared,2016
+Nvidia,,Undeclared,2016
+Dell,,Undeclared,2016
+Ingram Micro,,Undeclared,2016
+Intel,,Undeclared,2016
+Groupon,,Undeclared,2016
+Amazon,,Undeclared,2016
+Etsy ,,Undeclared,2016
+Microsoft,,Undeclared,2016
+Salesforce,,Undeclared,2016
+Pandora,,Undeclared,2016
+Uber,,Undeclared,2016
+Average in top 50 companies,,Undeclared,2016
+Fortune 500 CEOs,,Undeclared,2016
+Kaiser Permanente,,Undeclared,2016
+US Congress,,Undeclared,2016
+Venture Capitalists,,Undeclared,2016
+Facebook,32,Female,2015
+Instagram,31,Female,2015
+Google+,30,Female,2015
+YouTube,30,Female,2015
+LinkedIn,42,Female,2015
+Pinterest,40,Female,2015
+Tumblr,37,Female,2015
+Flickr,37,Female,2015
+Twitter,30,Female,2015
+Secret,50,Female,2015
+Yahoo!,37,Female,2015
+Google,30,Female,2015
+Apple,31,Female,2015
+Apple (excluding undeclared),30,Female,2015
+Cisco,23,Female,2015
+eBay,43,Female,2015
+HP,33,Female,2015
+Indiegogo,45,Female,2015
+Nvidia,16,Female,2015
+Dell,30,Female,2015
+Ingram Micro,42,Female,2015
+Intel,25,Female,2015
+Groupon,47,Female,2015
+Amazon,37,Female,2015
+Etsy ,51,Female,2015
+Microsoft,28,Female,2015
+Salesforce,29,Female,2015
+Pandora,49,Female,2015
+Average in top 50 companies,54,Female,2015
+Fortune 500 CEOs,4.8,Female,2015
+Kaiser Permanente,76,Female,2015
+US Congress,19,Female,2015
+Venture Capitalists,11,Female,2015
+Facebook,68,Male,2015
+Instagram,69,Male,2015
+Google+,70,Male,2015
+YouTube,70,Male,2015
+LinkedIn,58,Male,2015
+Pinterest,60,Male,2015
+Tumblr,62,Male,2015
+Flickr,62,Male,2015
+Twitter,70,Male,2015
+Secret,50,Male,2015
+Yahoo!,62,Male,2015
+Google,70,Male,2015
+Apple,69,Male,2015
+Apple (excluding undeclared),70,Male,2015
+Cisco,77,Male,2015
+eBay,57,Male,2015
+HP,67,Male,2015
+Indiegogo,55,Male,2015
+Nvidia,84,Male,2015
+Dell,70,Male,2015
+Ingram Micro,58,Male,2015
+Intel,75,Male,2015
+Groupon,53,Male,2015
+Amazon,63,Male,2015
+Etsy ,49,Male,2015
+Microsoft,72,Male,2015
+Salesforce,71,Male,2015
+Pandora,51,Male,2015
+Average in top 50 companies,46,Male,2015
+Fortune 500 CEOs,95,Male,2015
+Kaiser Permanente,24,Male,2015
+US Congress,81,Male,2015
+Venture Capitalists,89,Male,2015
+Facebook,55,White,2015
+Instagram,57,White,2015
+Google+,60,White,2015
+YouTube,61,White,2015
+LinkedIn,56,White,2015
+Pinterest,50,White,2015
+Tumblr,50,White,2015
+Flickr,50,White,2015
+Twitter,59,White,2015
+Secret,72,White,2015
+Yahoo!,50,White,2015
+Google,60,White,2015
+Apple,54,White,2015
+Apple (excluding undeclared),59,White,2015
+Cisco,54,White,2015
+eBay,60,White,2015
+HP,72,White,2015
+Indiegogo,64,White,2015
+Nvidia,38,White,2015
+Dell,69,White,2015
+Ingram Micro,63,White,2015
+Intel,61,White,2015
+Groupon,71,White,2015
+Amazon,60,White,2015
+Etsy ,79,White,2015
+Microsoft,59,White,2015
+Salesforce,67,White,2015
+Pandora,71,White,2015
+Average in top 50 companies,68,White,2015
+Fortune 500 CEOs,83*,White,2015
+Kaiser Permanente,48*,White,2015
+US Congress,80*,White,2015
+Venture Capitalists,87,White,2015
+Facebook,36,Asian,2015
+Instagram,34,Asian,2015
+Google+,31,Asian,2015
+YouTube,30,Asian,2015
+LinkedIn,37,Asian,2015
+Pinterest,42,Asian,2015
+Tumblr,39,Asian,2015
+Flickr,39,Asian,2015
+Twitter,29,Asian,2015
+Secret,17,Asian,2015
+Yahoo!,39,Asian,2015
+Google,31,Asian,2015
+Apple,18,Asian,2015
+Apple (excluding undeclared),20,Asian,2015
+Cisco,,Asian,2015
+eBay,25,Asian,2015
+HP,6,Asian,2015
+Indiegogo,23,Asian,2015
+Nvidia,44,Asian,2015
+Dell,9,Asian,2015
+Ingram Micro,11,Asian,2015
+Intel,26,Asian,2015
+Groupon,15,Asian,2015
+Amazon,13,Asian,2015
+Etsy ,11,Asian,2015
+Microsoft,29,Asian,2015
+Salesforce,22,Asian,2015
+Pandora,12,Asian,2015
+Average in top 50 companies,10,Asian,2015
+Fortune 500 CEOs,1.8,Asian,2015
+Kaiser Permanente,20,Asian,2015
+US Congress,5.6,Asian,2015
+Venture Capitalists,9,Asian,2015
+Facebook,4,Latino,2015
+Instagram,4,Latino,2015
+Google+,3,Latino,2015
+YouTube,3,Latino,2015
+LinkedIn,4,Latino,2015
+Pinterest,2,Latino,2015
+Tumblr,4,Latino,2015
+Flickr,4,Latino,2015
+Twitter,3,Latino,2015
+Secret,,Latino,2015
+Yahoo!,4,Latino,2015
+Google,3,Latino,2015
+Apple,11,Latino,2015
+Apple (excluding undeclared),12,Latino,2015
+Cisco,,Latino,2015
+eBay,5,Latino,2015
+HP,14,Latino,2015
+Indiegogo,8,Latino,2015
+Nvidia,3,Latino,2015
+Dell,11,Latino,2015
+Ingram Micro,16,Latino,2015
+Intel,9,Latino,2015
+Groupon,5,Latino,2015
+Amazon,9,Latino,2015
+Etsy ,4,Latino,2015
+Microsoft,5,Latino,2015
+Salesforce,4,Latino,2015
+Pandora,7,Latino,2015
+Average in top 50 companies,10,Latino,2015
+Fortune 500 CEOs,2,Latino,2015
+Kaiser Permanente,18,Latino,2015
+US Congress,6,Latino,2015
+Venture Capitalists,2,Latino,2015
+Facebook,2,Black,2015
+Instagram,2,Black,2015
+Google+,2,Black,2015
+YouTube,2,Black,2015
+LinkedIn,2,Black,2015
+Pinterest,1,Black,2015
+Tumblr,2,Black,2015
+Flickr,2,Black,2015
+Twitter,2,Black,2015
+Secret,,Black,2015
+Yahoo!,2,Black,2015
+Google,2,Black,2015
+Apple,8,Black,2015
+Apple (excluding undeclared),9,Black,2015
+Cisco,,Black,2015
+eBay,8,Black,2015
+HP,7,Black,2015
+Indiegogo,2,Black,2015
+Nvidia,1,Black,2015
+Dell,10,Black,2015
+Ingram Micro,10,Black,2015
+Intel,4,Black,2015
+Groupon,4,Black,2015
+Amazon,15,Black,2015
+Etsy ,3,Black,2015
+Microsoft,4,Black,2015
+Salesforce,2,Black,2015
+Pandora,3,Black,2015
+Average in top 50 companies,12,Black,2015
+Fortune 500 CEOs,1.2,Black,2015
+Kaiser Permanente,13,Black,2015
+US Congress,8,Black,2015
+Venture Capitalists,2,Black,2015
+Facebook,3,Multi,2015
+Instagram,3,Multi,2015
+Google+,3,Multi,2015
+YouTube,4,Multi,2015
+LinkedIn,1,Multi,2015
+Pinterest,,Multi,2015
+Tumblr,2,Multi,2015
+Flickr,2,Multi,2015
+Twitter,3,Multi,2015
+Secret,11,Multi,2015
+Yahoo!,2,Multi,2015
+Google,3,Multi,2015
+Apple,2,Multi,2015
+Apple (excluding undeclared),2,Multi,2015
+Cisco,,Multi,2015
+eBay,1,Multi,2015
+HP,1,Multi,2015
+Indiegogo,,Multi,2015
+Nvidia,14,Multi,2015
+Dell,,Multi,2015
+Ingram Micro,,Multi,2015
+Intel,,Multi,2015
+Groupon,,Multi,2015
+Amazon,,Multi,2015
+Etsy ,3,Multi,2015
+Microsoft,1,Multi,2015
+Salesforce,2,Multi,2015
+Pandora,6,Multi,2015
+Average in top 50 companies,,Multi,2015
+Fortune 500 CEOs,,Multi,2015
+Kaiser Permanente,,Multi,2015
+US Congress,,Multi,2015
+Venture Capitalists,2,Multi,2015
+Facebook,0,Other,2015
+Instagram,0,Other,2015
+Google+,<1,Other,2015
+YouTube,<1,Other,2015
+LinkedIn,<1,Other,2015
+Pinterest,5,Other,2015
+Tumblr,2,Other,2015
+Flickr,2,Other,2015
+Twitter,4,Other,2015
+Secret,,Other,2015
+Yahoo!,2,Other,2015
+Google,<1,Other,2015
+Apple,1,Other,2015
+Apple (excluding undeclared),1,Other,2015
+Cisco,,Other,2015
+eBay,1,Other,2015
+HP,<1,Other,2015
+Indiegogo,3,Other,2015
+Nvidia,<1,Other,2015
+Dell,1,Other,2015
+Ingram Micro,0,Other,2015
+Intel,1,Other,2015
+Groupon,4,Other,2015
+Amazon,3,Other,2015
+Etsy ,,Other,2015
+Microsoft,1,Other,2015
+Salesforce,3,Other,2015
+Pandora,1,Other,2015
+Average in top 50 companies,,Other,2015
+Fortune 500 CEOs,,Other,2015
+Kaiser Permanente,,Other,2015
+US Congress,,Other,2015
+Venture Capitalists,,Other,2015

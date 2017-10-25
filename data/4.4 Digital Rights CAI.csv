@@ -1,0 +1,89 @@
+name,type,value,indicator
+Google,Internet,64.72,Total
+Microsoft,Internet,62.49,Total
+Yahoo,Internet,58.16,Total
+Facebook,Internet,52.67,Total
+Kakao,Internet,50.06,Total
+AT&T,Telco,48.41,Total
+Vodafone,Telco,48.11,Total
+Twitter,Internet,47.73,Total
+Apple,Internet,35.26,Total
+Telefónica,Telco,33.4,Total
+Orange,Telco,31.61,Total
+Yandex,Internet,27.94,Total
+Samsung,Internet,25.55,Total
+TenCent,Internet,22.24,Total
+Mail.ru,Internet,21.57,Total
+América Móvil,Telco,20.7,Total
+MTN,Telco,15.34,Total
+Bharti Airtel,Telco,14.26,Total
+Axiata,Telco,13.32,Total
+Baidu,Internet,12.99,Total
+Etisalat,Telco,7.73,Total
+Ooredoo,Telco,5.09,Total
+Google,Internet,71.04,Governance
+Microsoft,Internet,87.69,Governance
+Yahoo,Internet,87.5,Governance
+Facebook,Internet,81.3,Governance
+Kakao,Internet,35.37,Governance
+AT&T,Telco,66.71,Governance
+Vodafone,Telco,81.3,Governance
+Twitter,Internet,29.77,Governance
+Apple,Internet,16.53,Governance
+Telefónica,Telco,57.5,Governance
+Orange,Telco,73.89,Governance
+Yandex,Internet,9.95,Governance
+Samsung,Internet,21.76,Governance
+TenCent,Internet,8.61,Governance
+Mail.ru,Internet,7.43,Governance
+América Móvil,Telco,20.83,Governance
+MTN,Telco,30.56,Governance
+Bharti Airtel,Telco,16.25,Governance
+Axiata,Telco,2.78,Governance
+Baidu,Internet,0,Governance
+Etisalat,Telco,8.33,Governance
+Ooredoo,Telco,1.67,Governance
+Google,Internet,60.09,Freedom of Expression
+Microsoft,Internet,53.33,Freedom of Expression
+Yahoo,Internet,43.09,Freedom of Expression
+Facebook,Internet,41.43,Freedom of Expression
+Kakao,Internet,54.81,Freedom of Expression
+AT&T,Telco,40.75,Freedom of Expression
+Vodafone,Telco,44.54,Freedom of Expression
+Twitter,Internet,49.29,Freedom of Expression
+Apple,Internet,21.68,Freedom of Expression
+Telefónica,Telco,26.55,Freedom of Expression
+Orange,Telco,16.2,Freedom of Expression
+Yandex,Internet,22.67,Freedom of Expression
+Samsung,Internet,20.17,Freedom of Expression
+TenCent,Internet,14.37,Freedom of Expression
+Mail.ru,Internet,21.19,Freedom of Expression
+América Móvil,Telco,16.29,Freedom of Expression
+MTN,Telco,13.18,Freedom of Expression
+Bharti Airtel,Telco,9.51,Freedom of Expression
+Axiata,Telco,12.99,Freedom of Expression
+Baidu,Internet,12.76,Freedom of Expression
+Etisalat,Telco,15.28,Freedom of Expression
+Ooredoo,Telco,13.91,Freedom of Expression
+Google,Internet,64.93,Privacy
+Microsoft,Internet,58.67,Privacy
+Yahoo,Internet,55.91,Privacy
+Facebook,Internet,48.75,Privacy
+Kakao,Internet,52.57,Privacy
+AT&T,Telco,46.71,Privacy
+Vodafone,Telco,37.45,Privacy
+Twitter,Internet,52.93,Privacy
+Apple,Internet,48.3,Privacy
+Telefónica,Telco,28.78,Privacy
+Orange,Telco,26.01,Privacy
+Yandex,Internet,36.57,Privacy
+Samsung,Internet,29.5,Privacy
+TenCent,Internet,30.73,Privacy
+Mail.ru,Internet,26.48,Privacy
+América Móvil,Telco,23.89,Privacy
+MTN,Telco,10.83,Privacy
+Bharti Airtel,Telco,16.94,Privacy
+Axiata,Telco,17.78,Privacy
+Baidu,Internet,17.44,Privacy
+Etisalat,Telco,1.94,Privacy
+Ooredoo,Telco,0,Privacy

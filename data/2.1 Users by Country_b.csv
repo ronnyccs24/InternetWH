@@ -1,0 +1,718 @@
+country,penetration,year,indicator
+China *,52.3,2016,penetration rate
+India,36.5,2016,penetration rate
+United States,87.4,2016,penetration rate
+Brazil,57.6,2016,penetration rate
+Indonesia,34.1,2016,penetration rate
+Japan,91,2016,penetration rate
+Russia,70.5,2016,penetration rate
+Nigeria,51.1,2016,penetration rate
+Bangladesh,33.1,2016,penetration rate
+Germany,88.4,2016,penetration rate
+Mexico,49.3,2016,penetration rate
+Vietnam,51.5,2016,penetration rate
+United Kingdom,91.6,2016,penetration rate
+Philippines,52.6,2016,penetration rate
+Thailand,60.1,2016,penetration rate
+Iran,68.5,2016,penetration rate
+France,83.8,2016,penetration rate
+Italy,62,2016,penetration rate
+"Korea, South",92.1,2016,penetration rate
+Turkey,59.6,2016,penetration rate
+Pakistan,17.8,2016,penetration rate
+Kenya,69.6,2016,penetration rate
+Egypt,37,2016,penetration rate
+Spain,76.9,2016,penetration rate
+Argentina,80.1,2016,penetration rate
+Canada,94.5,2016,penetration rate
+South Africa,49,2016,penetration rate
+Colombia,59.1,2016,penetration rate
+Poland,67.5,2016,penetration rate
+Malaysia,68.1,2016,penetration rate
+Saudi Arabia,64.7,2016,penetration rate
+Australia,93.1,2016,penetration rate
+Taiwan,83.8,2016,penetration rate
+Morocco,60.6,2016,penetration rate
+Ukraine,43.4,2016,penetration rate
+Uganda,32.1,2016,penetration rate
+Algeria,27.3,2016,penetration rate
+Venezuela,61.5,2016,penetration rate
+Peru,52.6,2016,penetration rate
+Netherlands,95.5,2016,penetration rate
+Ethiopia,4.2,2016,penetration rate
+Uzbekistan,52.4,2016,penetration rate
+Chile,72.3,2016,penetration rate
+Iraq,37.3,2016,penetration rate
+Kazakhstan,54.3,2016,penetration rate
+Myanmar,19.3,2016,penetration rate
+Ecuador,84.9,2016,penetration rate
+Sudan,25.8,2016,penetration rate
+Romania,56.3,2016,penetration rate
+Belgium,85,2016,penetration rate
+Ghana,29.6,2016,penetration rate
+Czech Republic,79.7,2016,penetration rate
+Sweden,94.6,2016,penetration rate
+United Arab Emirates,91.9,2016,penetration rate
+Hungary,76.1,2016,penetration rate
+Azerbaijan,61,2016,penetration rate
+Tanzania,14.9,2016,penetration rate
+Switzerland,87.2,2016,penetration rate
+Austria,83.1,2016,penetration rate
+Greece,63.2,2016,penetration rate
+Portugal,67.6,2016,penetration rate
+Yemen,24.7,2016,penetration rate
+Zimbabwe,47.5,2016,penetration rate
+Sri Lanka,27.4,2016,penetration rate
+Israel,72.7,2016,penetration rate
+Hong Kong *,80.2,2016,penetration rate
+Nepal,19.9,2016,penetration rate
+Cote d'Ivoire,22,2016,penetration rate
+Jordan,73.6,2016,penetration rate
+Cameroon,17.7,2016,penetration rate
+Dominican Republic,57.8,2016,penetration rate
+Syria,29.6,2016,penetration rate
+Angola,29.5,2016,penetration rate
+Tunisia,49,2016,penetration rate
+Belarus,59,2016,penetration rate
+Denmark,96,2016,penetration rate
+Guatemala,31.5,2016,penetration rate
+Zambia,18,2016,penetration rate
+Mozambique,5.9,2016,penetration rate
+Finland,93.5,2016,penetration rate
+"Congo, Dem. Rep.",3.8,2016,penetration rate
+Norway,96.3,2016,penetration rate
+Serbia,66.2,2016,penetration rate
+Singapore,81.3,2016,penetration rate
+Bolivia,39,2016,penetration rate
+Lebanon,75.9,2016,penetration rate
+Slovakia,83.1,2016,penetration rate
+Ireland,82.5,2016,penetration rate
+Costa Rica,88,2016,penetration rate
+Bulgaria,56.7,2016,penetration rate
+Senegal,51.9,2016,penetration rate
+Cambodia,25.7,2016,penetration rate
+New Zealand,93.8,2016,penetration rate
+Afganistan,12,2016,penetration rate
+Rwanda,25.4,2016,penetration rate
+Cuba,30,2016,penetration rate
+Oman,71.1,2016,penetration rate
+Kuwait,79.9,2016,penetration rate
+Paraguay,43,2016,penetration rate
+Croatia,75,2016,penetration rate
+El Salvador,47.2,2016,penetration rate
+Puerto Rico,78.8,2016,penetration rate
+Libya,37.4,2016,penetration rate
+Panama,52,2016,penetration rate
+Honduras,27.4,2016,penetration rate
+Burkina Faso,9.7,2016,penetration rate
+Bosnia-Herzegovina,68.7,2016,penetration rate
+Georgia,48.9,2016,penetration rate
+Uruguay,65.8,2016,penetration rate
+Lithuania,82.1,2016,penetration rate
+Mali,7,2016,penetration rate
+Qatar,97.4,2016,penetration rate
+South Sudan,15.9,2016,penetration rate
+Armenia,69.7,2016,penetration rate
+Kyrgystan,36.2,2016,penetration rate
+Nicaragua,27.1,2016,penetration rate
+Albania,62.7,2016,penetration rate
+Tajikistan,19.5,2016,penetration rate
+Malawi,6.1,2016,penetration rate
+Moldova,49.2,2016,penetration rate
+Latvia,82,2016,penetration rate
+Jamaica,53.6,2016,penetration rate
+Laos,19.9,2016,penetration rate
+Kosovo,84.4,2016,penetration rate
+Slovenia,72.8,2016,penetration rate
+Mongolia,49.5,2016,penetration rate
+Macedonia,68.1,2016,penetration rate
+Saint Lucia,87.2,2016,penetration rate
+Bahrain,92.7,2016,penetration rate
+Benin,11.5,2016,penetration rate
+Haiti,12,2016,penetration rate
+Guinea,6.5,2016,penetration rate
+Madagascar,4.6,2016,penetration rate
+Estonia,84.2,2016,penetration rate
+Turkmenistan,14.9,2016,penetration rate
+Trinidad & Tobago,65.1,2016,penetration rate
+Niger,2,2016,penetration rate
+Botswana,28.1,2016,penetration rate
+Papau New Guinea,9.4,2016,penetration rate
+Somalia,4.7,2016,penetration rate
+Togo,5.7,2016,penetration rate
+Gabon,38.5,2016,penetration rate
+Cyprus,95,2016,penetration rate
+Mauritius,60,2016,penetration rate
+Namibia,21.2,2016,penetration rate
+Sierra Leone,4.4,2016,penetration rate
+Mauritania,12.7,2016,penetration rate
+Chad,3.3,2016,penetration rate
+Burundi,4.7,2016,penetration rate
+Lesotho,12.8,2016,penetration rate
+Luxembourg,94.7,2016,penetration rate
+Macao *,72.6,2016,penetration rate
+Swaziland,27.1,2016,penetration rate
+Fiji,41.8,2016,penetration rate
+Congo,7.4,2016,penetration rate
+Liberia,8.3,2016,penetration rate
+Gambia,18.6,2016,penetration rate
+Reunion (FR),43.8,2016,penetration rate
+Montenegro,61,2016,penetration rate
+Timor-Leste,27,2016,penetration rate
+Iceland,98.2,2016,penetration rate
+Malta,73.2,2016,penetration rate
+Bahamas,90.5,2016,penetration rate
+Bhutan,38.6,2016,penetration rate
+Brunei Darussalam,71,2016,penetration rate
+Guyana,40.2,2016,penetration rate
+Martinique,73.9,2016,penetration rate
+Maldives,68.7,2016,penetration rate
+Suriname,41.4,2016,penetration rate
+Cabo Verde,40.5,2016,penetration rate
+Central African Rep.,4.1,2016,penetration rate
+New Caledonia,88.4,2016,penetration rate
+Barbados,77.3,2016,penetration rate
+Guadeloupe,42.7,2016,penetration rate
+Equatorial Guinea,23.9,2016,penetration rate
+French Polynesia,60.7,2016,penetration rate
+Djibouti,12.4,2016,penetration rate
+Belize,40.3,2016,penetration rate
+Curaçao,93.5,2016,penetration rate
+Guam,69.3,2016,penetration rate
+Mayotte (FR),49,2016,penetration rate
+French Guiana,36.3,2016,penetration rate
+Aruba,83.8,2016,penetration rate
+Guinea-Bissau,4.1,2016,penetration rate
+Vanuatu,18.8,2016,penetration rate
+Eritrea,1,2016,penetration rate
+Samoa,27.3,2016,penetration rate
+Bermuda,96.8,2016,penetration rate
+Andorra,95.9,2016,penetration rate
+St. Vincent & Grenadines,74.1,2016,penetration rate
+Comoros,7,2016,penetration rate
+Jersey,59.6,2016,penetration rate
+Solomon Islands,9,2016,penetration rate
+Antigua & Barbuda,88.2,2016,penetration rate
+US Virgin Islands,50.1,2016,penetration rate
+Grenada,45.2,2016,penetration rate
+Sao Tome & Principe,25.2,2016,penetration rate
+Seychelles,54.3,2016,penetration rate
+Guernsey & Alderney,83.3,2016,penetration rate
+Greenland,90.1,2016,penetration rate
+Tonga,40,2016,penetration rate
+Dominica,62.9,2016,penetration rate
+"Man, Isle of",54.8,2016,penetration rate
+Faroe Islands,94.7,2016,penetration rate
+Cayman Islands,83.8,2016,penetration rate
+St. Kitts & Nevis,79.4,2016,penetration rate
+Liechtenstein,95.2,2016,penetration rate
+Micronesia,29.7,2016,penetration rate
+Northern Marianas,30.5,2016,penetration rate
+Monaco,92.4,2016,penetration rate
+Western Sahara,4.9,2016,penetration rate
+Turks & Caicos,39.8,2016,penetration rate
+Gibraltar,82,2016,penetration rate
+American Samoa,31.3,2016,penetration rate
+"Bonaire, S.E., Saba",94,2016,penetration rate
+Marshall Islands,24.9,2016,penetration rate
+San Marino,50.8,2016,penetration rate
+Kiribati,12.3,2016,penetration rate
+British Virgin Islands,43.7,2016,penetration rate
+"Korea, North",0.1,2016,penetration rate
+Wallis & Futuna,29.8,2016,penetration rate
+Anguilla,70.4,2016,penetration rate
+Palau,36.2,2016,penetration rate
+Cook Islands,61,2016,penetration rate
+Nauru,54,2016,penetration rate
+Tuvalu,39.6,2016,penetration rate
+St. Pierre & Maquelon,79.5,2016,penetration rate
+Antarctica,100,2016,penetration rate
+Wallis & Futuna,22.4,2016,penetration rate
+Monserrat,54.6,2016,penetration rate
+Falkland Islands,98.6,2016,penetration rate
+Saint Helena (UK),39.9,2016,penetration rate
+St. Barthélemy (FR),21.3,2016,penetration rate
+St. Martin (FR),3.5,2016,penetration rate
+Niue,92.4,2016,penetration rate
+Tokelau,59.8,2016,penetration rate
+Christmas Island,52.6,2016,penetration rate
+Norfolk Island,34.8,2016,penetration rate
+Vatican City State,57,2016,penetration rate
+China *,53.2,2017,penetration rate
+India,34.4,2017,penetration rate
+United States,88.6,2017,penetration rate
+Brazil,67.5,2017,penetration rate
+Indonesia,50.4,2017,penetration rate
+Japan,94,2017,penetration rate
+Russia,70.5,2017,penetration rate
+Nigeria,47.7,2017,penetration rate
+Bangladesh,44.5,2017,penetration rate
+Germany,89,2017,penetration rate
+Mexico,56,2017,penetration rate
+Vietnam,67.1,2017,penetration rate
+United Kingdom,91.6,2017,penetration rate
+Philippines,55.5,2017,penetration rate
+Thailand,83.5,2017,penetration rate
+Iran,70,2017,penetration rate
+France,86,2017,penetration rate
+Italy,86.7,2017,penetration rate
+"Korea, South",92.7,2017,penetration rate
+Turkey,59.6,2017,penetration rate
+Pakistan,22.7,2017,penetration rate
+Kenya,89.4,2017,penetration rate
+Egypt,39.2,2017,penetration rate
+Spain,76.9,2017,penetration rate
+Argentina,78.6,2017,penetration rate
+Canada,93.3,2017,penetration rate
+South Africa,54,2017,penetration rate
+Colombia,58.6,2017,penetration rate
+Poland,67.5,2017,penetration rate
+Malaysia,78.8,2017,penetration rate
+Saudi Arabia,73.8,2017,penetration rate
+Australia,85.9,2017,penetration rate
+Taiwan,88,2017,penetration rate
+Morocco,58.3,2017,penetration rate
+Ukraine,43.4,2017,penetration rate
+Uganda,45.6,2017,penetration rate
+Algeria,45.2,2017,penetration rate
+Venezuela,61.5,2017,penetration rate
+Peru,58.6,2017,penetration rate
+Netherlands,95.5,2017,penetration rate
+Ethiopia,15.4,2017,penetration rate
+Uzbekistan,50.4,2017,penetration rate
+Chile,79.9,2017,penetration rate
+Iraq,36.2,2017,penetration rate
+Kazakhstan,76.8,2017,penetration rate
+Myanmar,25.1,2017,penetration rate
+Ecuador,83.8,2017,penetration rate
+Sudan,28,2017,penetration rate
+Romania,56.3,2017,penetration rate
+Belgium,87.9,2017,penetration rate
+Ghana,34.7,2017,penetration rate
+Czech Republic,88.3,2017,penetration rate
+Sweden,94.6,2017,penetration rate
+United Arab Emirates,90.6,2017,penetration rate
+Hungary,80.5,2017,penetration rate
+Azerbaijan,78.2,2017,penetration rate
+Tanzania,13,2017,penetration rate
+Switzerland,87.2,2017,penetration rate
+Austria,83,2017,penetration rate
+Greece,64.9,2017,penetration rate
+Portugal,67.6,2017,penetration rate
+Yemen,24.6,2017,penetration rate
+Zimbabwe,41.1,2017,penetration rate
+Sri Lanka,32.1,2017,penetration rate
+Israel,79.8,2017,penetration rate
+Hong Kong *,87.3,2017,penetration rate
+Nepal,21.9,2017,penetration rate
+Cote d'Ivoire,26.5,2017,penetration rate
+Jordan,80,2017,penetration rate
+Cameroon,25,2017,penetration rate
+Dominican Republic,57.1,2017,penetration rate
+Syria,31.9,2017,penetration rate
+Angola,22.3,2017,penetration rate
+Tunisia,50.9,2017,penetration rate
+Belarus,61.2,2017,penetration rate
+Denmark,95.9,2017,penetration rate
+Guatemala,34.9,2017,penetration rate
+Zambia,30.1,2017,penetration rate
+Mozambique,17.5,2017,penetration rate
+Finland,92.2,2017,penetration rate
+"Congo, Dem. Rep.",6.2,2017,penetration rate
+Norway,96.3,2017,penetration rate
+Serbia,66.2,2017,penetration rate
+Singapore,81.2,2017,penetration rate
+Bolivia,41.9,2017,penetration rate
+Lebanon,76.1,2017,penetration rate
+Slovakia,83.1,2017,penetration rate
+Ireland,93.8,2017,penetration rate
+Costa Rica,86.9,2017,penetration rate
+Bulgaria,59,2017,penetration rate
+Senegal,25.7,2017,penetration rate
+Cambodia,25.6,2017,penetration rate
+New Zealand,88.6,2017,penetration rate
+Afganistan,11.7,2017,penetration rate
+Rwanda,30.6,2017,penetration rate
+Cuba,33.6,2017,penetration rate
+Oman,69.8,2017,penetration rate
+Kuwait,78.4,2017,penetration rate
+Paraguay,45.9,2017,penetration rate
+Croatia,74.4,2017,penetration rate
+El Salvador,50.4,2017,penetration rate
+Puerto Rico,85.2,2017,penetration rate
+Libya,43.7,2017,penetration rate
+Panama,75.6,2017,penetration rate
+Honduras,30.4,2017,penetration rate
+Burkina Faso,14,2017,penetration rate
+Bosnia-Herzegovina,69.3,2017,penetration rate
+Georgia,60.7,2017,penetration rate
+Uruguay,71.6,2017,penetration rate
+Lithuania,84.8,2017,penetration rate
+Mali,11.8,2017,penetration rate
+Qatar,94.3,2017,penetration rate
+South Sudan,16.6,2017,penetration rate
+Armenia,70.1,2017,penetration rate
+Kyrgystan,34.5,2017,penetration rate
+Nicaragua,31.8,2017,penetration rate
+Albania,62.6,2017,penetration rate
+Tajikistan,20.5,2017,penetration rate
+Malawi,9.6,2017,penetration rate
+Moldova,49.2,2017,penetration rate
+Latvia,85.6,2017,penetration rate
+Jamaica,53.2,2017,penetration rate
+Laos,21.9,2017,penetration rate
+Kosovo,80.4,2017,penetration rate
+Slovenia,72.8,2017,penetration rate
+Mongolia,49.1,2017,penetration rate
+Macedonia,69.1,2017,penetration rate
+Saint Lucia,66.5,2017,penetration rate
+Bahrain,98,2017,penetration rate
+Benin,12,2017,penetration rate
+Haiti,12.8,2017,penetration rate
+Guinea,9.8,2017,penetration rate
+Madagascar,5.1,2017,penetration rate
+Estonia,91.6,2017,penetration rate
+Turkmenistan,18,2017,penetration rate
+Trinidad & Tobago,77.2,2017,penetration rate
+Niger,4.3,2017,penetration rate
+Botswana,39.4,2017,penetration rate
+Papau New Guinea,11.4,2017,penetration rate
+Somalia,7.9,2017,penetration rate
+Togo,13,2017,penetration rate
+Gabon,48.1,2017,penetration rate
+Cyprus,71.1,2017,penetration rate
+Mauritius,62.7,2017,penetration rate
+Namibia,31,2017,penetration rate
+Sierra Leone,11.8,2017,penetration rate
+Mauritania,18,2017,penetration rate
+Chad,5,2017,penetration rate
+Burundi,5.2,2017,penetration rate
+Lesotho,27.4,2017,penetration rate
+Luxembourg,94,2017,penetration rate
+Macao *,81.6,2017,penetration rate
+Swaziland,33,2017,penetration rate
+Fiji,46.8,2017,penetration rate
+Congo,8.2,2017,penetration rate
+Liberia,8.4,2017,penetration rate
+Gambia,18.5,2017,penetration rate
+Reunion (FR),44.7,2017,penetration rate
+Montenegro,61,2017,penetration rate
+Timor-Leste,27.5,2017,penetration rate
+Iceland,100.6,2017,penetration rate
+Malta,79.4,2017,penetration rate
+Bahamas,83.9,2017,penetration rate
+Bhutan,41.8,2017,penetration rate
+Brunei Darussalam,75,2017,penetration rate
+Guyana,41.4,2017,penetration rate
+Martinique,76.4,2017,penetration rate
+Maldives,71.8,2017,penetration rate
+Suriname,44.4,2017,penetration rate
+Cabo Verde,48.2,2017,penetration rate
+Central African Rep.,4.8,2017,penetration rate
+New Caledonia,89,2017,penetration rate
+Barbados,80,2017,penetration rate
+Guadeloupe,46.7,2017,penetration rate
+Equatorial Guinea,23.8,2017,penetration rate
+French Polynesia,63.2,2017,penetration rate
+Djibouti,19.8,2017,penetration rate
+Belize,44,2017,penetration rate
+Curaçao,93.1,2017,penetration rate
+Guam,71.6,2017,penetration rate
+Mayotte (FR),42.7,2017,penetration rate
+French Guiana,36.3,2017,penetration rate
+Aruba,87.5,2017,penetration rate
+Guinea-Bissau,4.3,2017,penetration rate
+Vanuatu,30,2017,penetration rate
+Eritrea,1.3,2017,penetration rate
+Samoa,34.7,2017,penetration rate
+Bermuda,96.3,2017,penetration rate
+Andorra,97.1,2017,penetration rate
+St. Vincent & Grenadines,64.5,2017,penetration rate
+Comoros,7.9,2017,penetration rate
+Jersey,63.7,2017,penetration rate
+Solomon Islands,10.3,2017,penetration rate
+Antigua & Barbuda,64.4,2017,penetration rate
+US Virgin Islands,55.8,2017,penetration rate
+Grenada,50.4,2017,penetration rate
+Sao Tome & Principe,28,2017,penetration rate
+Seychelles,56.5,2017,penetration rate
+Guernsey & Alderney,82.8,2017,penetration rate
+Greenland,90.1,2017,penetration rate
+Tonga,46.2,2017,penetration rate
+Dominica,65.4,2017,penetration rate
+"Man, Isle of",53.8,2017,penetration rate
+Faroe Islands,98.3,2017,penetration rate
+Cayman Islands,82.1,2017,penetration rate
+St. Kitts & Nevis,71.1,2017,penetration rate
+Liechtenstein,95.2,2017,penetration rate
+Micronesia,31,2017,penetration rate
+Northern Marianas,52.2,2017,penetration rate
+Monaco,92.4,2017,penetration rate
+Western Sahara,4.5,2017,penetration rate
+Turks & Caicos,48.6,2017,penetration rate
+Gibraltar,73.9,2017,penetration rate
+American Samoa,39.5,2017,penetration rate
+"Bonaire, S.E., Saba",94,2017,penetration rate
+Marshall Islands,37.6,2017,penetration rate
+San Marino,50.8,2017,penetration rate
+Kiribati,12.6,2017,penetration rate
+British Virgin Islands,42.7,2017,penetration rate
+"Korea, North",0.1,2017,penetration rate
+Wallis & Futuna,3.9,2017,penetration rate
+Anguilla,84.2,2017,penetration rate
+Palau,35.4,2017,penetration rate
+Cook Islands,29.9,2017,penetration rate
+Nauru,50,2017,penetration rate
+Tuvalu,50.1,2017,penetration rate
+St. Pierre & Maquelon,80.4,2017,penetration rate
+Antarctica,100,2017,penetration rate
+Wallis & Futuna,29.8,2017,penetration rate
+Monserrat,55.1,2017,penetration rate
+Falkland Islands,96.2,2017,penetration rate
+Saint Helena (UK),50.4,2017,penetration rate
+St. Barthélemy (FR),21.4,2017,penetration rate
+St. Martin (FR),3.4,2017,penetration rate
+Niue,68.2,2017,penetration rate
+Tokelau,61.5,2017,penetration rate
+Christmas Island,51.6,2017,penetration rate
+Norfolk Island,34.8,2017,penetration rate
+Vatican City State,57,2017,penetration rate
+China *,1.72,2017,YoY Change
+India,-5.75,2017,YoY Change
+United States,1.37,2017,YoY Change
+Brazil,17.19,2017,YoY Change
+Indonesia,47.8,2017,YoY Change
+Japan,3.3,2017,YoY Change
+Russia,0,2017,YoY Change
+Nigeria,-6.65,2017,YoY Change
+Bangladesh,34.44,2017,YoY Change
+Germany,0.68,2017,YoY Change
+Mexico,13.59,2017,YoY Change
+Vietnam,30.29,2017,YoY Change
+United Kingdom,0,2017,YoY Change
+Philippines,5.51,2017,YoY Change
+Thailand,38.94,2017,YoY Change
+Iran,2.19,2017,YoY Change
+France,2.63,2017,YoY Change
+Italy,39.84,2017,YoY Change
+"Korea, South",0.65,2017,YoY Change
+Turkey,0,2017,YoY Change
+Pakistan,27.53,2017,YoY Change
+Kenya,28.45,2017,YoY Change
+Egypt,5.95,2017,YoY Change
+Spain,0,2017,YoY Change
+Argentina,-1.87,2017,YoY Change
+Canada,-1.27,2017,YoY Change
+South Africa,10.2,2017,YoY Change
+Colombia,-0.85,2017,YoY Change
+Poland,0,2017,YoY Change
+Malaysia,15.71,2017,YoY Change
+Saudi Arabia,14.06,2017,YoY Change
+Australia,-7.73,2017,YoY Change
+Taiwan,5.01,2017,YoY Change
+Morocco,-3.8,2017,YoY Change
+Ukraine,0,2017,YoY Change
+Uganda,42.06,2017,YoY Change
+Algeria,65.57,2017,YoY Change
+Venezuela,0,2017,YoY Change
+Peru,11.41,2017,YoY Change
+Netherlands,0,2017,YoY Change
+Ethiopia,266.67,2017,YoY Change
+Uzbekistan,-3.82,2017,YoY Change
+Chile,10.51,2017,YoY Change
+Iraq,-2.95,2017,YoY Change
+Kazakhstan,41.44,2017,YoY Change
+Myanmar,30.05,2017,YoY Change
+Ecuador,-1.3,2017,YoY Change
+Sudan,8.53,2017,YoY Change
+Romania,0,2017,YoY Change
+Belgium,3.41,2017,YoY Change
+Ghana,17.23,2017,YoY Change
+Czech Republic,10.79,2017,YoY Change
+Sweden,0,2017,YoY Change
+United Arab Emirates,-1.41,2017,YoY Change
+Hungary,5.78,2017,YoY Change
+Azerbaijan,28.2,2017,YoY Change
+Tanzania,-12.75,2017,YoY Change
+Switzerland,0,2017,YoY Change
+Austria,-0.12,2017,YoY Change
+Greece,2.69,2017,YoY Change
+Portugal,0,2017,YoY Change
+Yemen,-0.4,2017,YoY Change
+Zimbabwe,-13.47,2017,YoY Change
+Sri Lanka,17.15,2017,YoY Change
+Israel,9.77,2017,YoY Change
+Hong Kong *,8.85,2017,YoY Change
+Nepal,10.05,2017,YoY Change
+Cote d'Ivoire,20.45,2017,YoY Change
+Jordan,8.7,2017,YoY Change
+Cameroon,41.24,2017,YoY Change
+Dominican Republic,-1.21,2017,YoY Change
+Syria,7.77,2017,YoY Change
+Angola,-24.41,2017,YoY Change
+Tunisia,3.88,2017,YoY Change
+Belarus,3.73,2017,YoY Change
+Denmark,-0.1,2017,YoY Change
+Guatemala,10.79,2017,YoY Change
+Zambia,67.22,2017,YoY Change
+Mozambique,196.61,2017,YoY Change
+Finland,-1.39,2017,YoY Change
+"Congo, Dem. Rep.",63.16,2017,YoY Change
+Norway,0,2017,YoY Change
+Serbia,0,2017,YoY Change
+Singapore,-0.12,2017,YoY Change
+Bolivia,7.44,2017,YoY Change
+Lebanon,0.26,2017,YoY Change
+Slovakia,0,2017,YoY Change
+Ireland,13.7,2017,YoY Change
+Costa Rica,-1.25,2017,YoY Change
+Bulgaria,4.06,2017,YoY Change
+Senegal,-50.48,2017,YoY Change
+Cambodia,-0.39,2017,YoY Change
+New Zealand,-5.54,2017,YoY Change
+Afganistan,-2.5,2017,YoY Change
+Rwanda,20.47,2017,YoY Change
+Cuba,12,2017,YoY Change
+Oman,-1.83,2017,YoY Change
+Kuwait,-1.88,2017,YoY Change
+Paraguay,6.74,2017,YoY Change
+Croatia,-0.8,2017,YoY Change
+El Salvador,6.78,2017,YoY Change
+Puerto Rico,8.12,2017,YoY Change
+Libya,16.84,2017,YoY Change
+Panama,45.38,2017,YoY Change
+Honduras,10.95,2017,YoY Change
+Burkina Faso,44.33,2017,YoY Change
+Bosnia-Herzegovina,0.87,2017,YoY Change
+Georgia,24.13,2017,YoY Change
+Uruguay,8.81,2017,YoY Change
+Lithuania,3.29,2017,YoY Change
+Mali,68.57,2017,YoY Change
+Qatar,-3.18,2017,YoY Change
+South Sudan,4.4,2017,YoY Change
+Armenia,0.57,2017,YoY Change
+Kyrgystan,-4.7,2017,YoY Change
+Nicaragua,17.34,2017,YoY Change
+Albania,-0.16,2017,YoY Change
+Tajikistan,5.13,2017,YoY Change
+Malawi,57.38,2017,YoY Change
+Moldova,0,2017,YoY Change
+Latvia,4.39,2017,YoY Change
+Jamaica,-0.75,2017,YoY Change
+Laos,10.05,2017,YoY Change
+Kosovo,-4.74,2017,YoY Change
+Slovenia,0,2017,YoY Change
+Mongolia,-0.81,2017,YoY Change
+Macedonia,1.47,2017,YoY Change
+Saint Lucia,-23.74,2017,YoY Change
+Bahrain,5.72,2017,YoY Change
+Benin,4.35,2017,YoY Change
+Haiti,6.67,2017,YoY Change
+Guinea,50.77,2017,YoY Change
+Madagascar,10.87,2017,YoY Change
+Estonia,8.79,2017,YoY Change
+Turkmenistan,20.81,2017,YoY Change
+Trinidad & Tobago,18.59,2017,YoY Change
+Niger,115,2017,YoY Change
+Botswana,40.21,2017,YoY Change
+Papau New Guinea,21.28,2017,YoY Change
+Somalia,68.09,2017,YoY Change
+Togo,128.07,2017,YoY Change
+Gabon,24.94,2017,YoY Change
+Cyprus,-25.16,2017,YoY Change
+Mauritius,4.5,2017,YoY Change
+Namibia,46.23,2017,YoY Change
+Sierra Leone,168.18,2017,YoY Change
+Mauritania,41.73,2017,YoY Change
+Chad,51.52,2017,YoY Change
+Burundi,10.64,2017,YoY Change
+Lesotho,114.06,2017,YoY Change
+Luxembourg,-0.74,2017,YoY Change
+Macao *,12.4,2017,YoY Change
+Swaziland,21.77,2017,YoY Change
+Fiji,11.96,2017,YoY Change
+Congo,10.81,2017,YoY Change
+Liberia,1.2,2017,YoY Change
+Gambia,-0.54,2017,YoY Change
+Reunion (FR),2.05,2017,YoY Change
+Montenegro,0,2017,YoY Change
+Timor-Leste,1.85,2017,YoY Change
+Iceland,2.44,2017,YoY Change
+Malta,8.47,2017,YoY Change
+Bahamas,-7.29,2017,YoY Change
+Bhutan,8.29,2017,YoY Change
+Brunei Darussalam,5.63,2017,YoY Change
+Guyana,2.99,2017,YoY Change
+Martinique,3.38,2017,YoY Change
+Maldives,4.51,2017,YoY Change
+Suriname,7.25,2017,YoY Change
+Cabo Verde,19.01,2017,YoY Change
+Central African Rep.,17.07,2017,YoY Change
+New Caledonia,0.68,2017,YoY Change
+Barbados,3.49,2017,YoY Change
+Guadeloupe,9.37,2017,YoY Change
+Equatorial Guinea,-0.42,2017,YoY Change
+French Polynesia,4.12,2017,YoY Change
+Djibouti,59.68,2017,YoY Change
+Belize,9.18,2017,YoY Change
+Curaçao,-0.43,2017,YoY Change
+Guam,3.32,2017,YoY Change
+Mayotte (FR),-12.86,2017,YoY Change
+French Guiana,0,2017,YoY Change
+Aruba,4.42,2017,YoY Change
+Guinea-Bissau,4.88,2017,YoY Change
+Vanuatu,59.57,2017,YoY Change
+Eritrea,30,2017,YoY Change
+Samoa,27.11,2017,YoY Change
+Bermuda,-0.52,2017,YoY Change
+Andorra,1.25,2017,YoY Change
+St. Vincent & Grenadines,-12.96,2017,YoY Change
+Comoros,12.86,2017,YoY Change
+Jersey,6.88,2017,YoY Change
+Solomon Islands,14.44,2017,YoY Change
+Antigua & Barbuda,-26.98,2017,YoY Change
+US Virgin Islands,11.38,2017,YoY Change
+Grenada,11.5,2017,YoY Change
+Sao Tome & Principe,11.11,2017,YoY Change
+Seychelles,4.05,2017,YoY Change
+Guernsey & Alderney,-0.6,2017,YoY Change
+Greenland,0,2017,YoY Change
+Tonga,15.5,2017,YoY Change
+Dominica,3.97,2017,YoY Change
+"Man, Isle of",-1.82,2017,YoY Change
+Faroe Islands,3.8,2017,YoY Change
+Cayman Islands,-2.03,2017,YoY Change
+St. Kitts & Nevis,-10.45,2017,YoY Change
+Liechtenstein,0,2017,YoY Change
+Micronesia,4.38,2017,YoY Change
+Northern Marianas,71.15,2017,YoY Change
+Monaco,0,2017,YoY Change
+Western Sahara,-8.16,2017,YoY Change
+Turks & Caicos,22.11,2017,YoY Change
+Gibraltar,-9.88,2017,YoY Change
+American Samoa,26.2,2017,YoY Change
+"Bonaire, S.E., Saba",0,2017,YoY Change
+Marshall Islands,51,2017,YoY Change
+San Marino,0,2017,YoY Change
+Kiribati,2.44,2017,YoY Change
+British Virgin Islands,-2.29,2017,YoY Change
+"Korea, North",0,2017,YoY Change
+Wallis & Futuna,,2017,YoY Change
+Anguilla,19.6,2017,YoY Change
+Palau,-2.21,2017,YoY Change
+Cook Islands,-50.98,2017,YoY Change
+Nauru,-7.41,2017,YoY Change
+Tuvalu,26.52,2017,YoY Change
+St. Pierre & Maquelon,1.13,2017,YoY Change
+Antarctica,0,2017,YoY Change
+Wallis & Futuna,33.04,2017,YoY Change
+Monserrat,0.92,2017,YoY Change
+Falkland Islands,-2.43,2017,YoY Change
+Saint Helena (UK),26.32,2017,YoY Change
+St. Barthélemy (FR),0.47,2017,YoY Change
+St. Martin (FR),-2.86,2017,YoY Change
+Niue,-26.19,2017,YoY Change
+Tokelau,2.84,2017,YoY Change
+Christmas Island,-1.9,2017,YoY Change
+Norfolk Island,0,2017,YoY Change
+Vatican City State,0,2017,YoY Change

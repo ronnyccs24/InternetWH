@@ -1,0 +1,67 @@
+search_engine,value,year,indicator,type
+Google,77.82,2016,NetMarketShare,Desktop
+Bing,7.96,2016,NetMarketShare,Desktop
+Baidu,6.37,2016,NetMarketShare,Desktop
+Yahoo,6.39,2016,NetMarketShare,Desktop
+Ask,0.15,2016,NetMarketShare,Desktop
+AOL,0.08,2016,NetMarketShare,Desktop
+Excite,0.01,2016,NetMarketShare,Desktop
+Other,1.22,2016,NetMarketShare,Desktop
+Google,81.62,2017,NetMarketShare,Desktop
+Bing,7.04,2017,NetMarketShare,Desktop
+Baidu,5.21,2017,NetMarketShare,Desktop
+Yahoo,4.64,2017,NetMarketShare,Desktop
+Ask,0.15,2017,NetMarketShare,Desktop
+AOL,0.04,2017,NetMarketShare,Desktop
+Excite,0.02,2017,NetMarketShare,Desktop
+Other,1.28,2017,NetMarketShare,Desktop
+Google,4.88,2017,YoY Change NetMarketShare,Desktop
+Bing,-11.56,2017,YoY Change NetMarketShare,Desktop
+Baidu,-18.21,2017,YoY Change NetMarketShare,Desktop
+Yahoo,-27.39,2017,YoY Change NetMarketShare,Desktop
+Ask,0.00,2017,YoY Change NetMarketShare,Desktop
+AOL,-50.00,2017,YoY Change NetMarketShare,Desktop
+Excite,100.00,2017,YoY Change NetMarketShare,Desktop
+Other,4.92,2017,YoY Change NetMarketShare,Desktop
+Google,93.76,2016,NetMarketShare,Mobile
+Yahoo,4.01,2016,NetMarketShare,Mobile
+Bing,1.06,2016,NetMarketShare,Mobile
+Baidu,0.37,2016,NetMarketShare,Mobile
+Ask,0.04,2016,NetMarketShare,Mobile
+AOL,0.01,2016,NetMarketShare,Mobile
+Google,97.07,2017,NetMarketShare,Mobile
+Yahoo,1.18,2017,NetMarketShare,Mobile
+Bing,0.67,2017,NetMarketShare,Mobile
+Baidu,0.47,2017,NetMarketShare,Mobile
+Ask,0.02,2017,NetMarketShare,Mobile
+AOL,0,2017,NetMarketShare,Mobile
+Google,3.53,2017,YoY Change NetMarketShare,Mobile
+Yahoo,-70.57,2017,YoY Change NetMarketShare,Mobile
+Bing,-36.79,2017,YoY Change NetMarketShare,Mobile
+Baidu,27.03,2017,YoY Change NetMarketShare,Mobile
+Ask,-50,2017,YoY Change NetMarketShare,Mobile
+AOL,-100,2017,YoY Change NetMarketShare,Mobile
+Google,89.6,2016,StatCounter,Desktop
+Bing,4.16,2016,StatCounter,Desktop
+Yahoo,3.29,2016,StatCounter,Desktop
+Yandex,1.07,2016,StatCounter,Desktop
+Baidu,0.64,2016,StatCounter,Desktop
+Haosou,0.24,2016,StatCounter,Desktop
+DuckDuckGo,0.16,2016,StatCounter,Desktop
+Other,0.84,2016,StatCounter,Desktop
+Google,86.71,2017,StatCounter,Desktop
+Bing,5.1,2017,StatCounter,Desktop
+Yahoo,4,2017,StatCounter,Desktop
+Yandex,1.51,2017,StatCounter,Desktop
+Baidu,0.93,2017,StatCounter,Desktop
+Haosou,0.4,2017,StatCounter,Desktop
+DuckDuckGo,0.33,2017,StatCounter,Desktop
+Other,1.02,2017,StatCounter,Desktop
+Google,-3.23,2017,YoY Change StatCounter,Desktop
+Bing,22.60,2017,YoY Change StatCounter,Desktop
+Yahoo,21.58,2017,YoY Change StatCounter,Desktop
+Yandex,41.12,2017,YoY Change StatCounter,Desktop
+Baidu,45.31,2017,YoY Change StatCounter,Desktop
+Haosou,66.67,2017,YoY Change StatCounter,Desktop
+DuckDuckGo,106.25,2017,YoY Change StatCounter,Desktop
+Other,21.43,2017,YoY Change StatCounter,Desktop

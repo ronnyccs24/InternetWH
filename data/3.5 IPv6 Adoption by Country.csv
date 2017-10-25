@@ -1,0 +1,264 @@
+ISO_2,Country,Native IPv6 %,Latency,Impact,Color Index
+BE,Belgium,49.2,10,0.01,49.2
+US,United States,33.31,0,-0.01,33.31
+GR,Greece,33.04,-150,-0.12,33.04
+DE,Germany,31.83,0,0,31.83
+CH,Switzerland,28.18,0,0,28.18
+LU,Luxembourg,24.05,0,0,24.05
+IN,India,22.93,-10,-0.02,22.93
+BR,Brazil,21.77,-40,-0.02,21.77
+JP,Japan,20.31,10,0,20.31
+FR,France,19.74,0,0,19.74
+GB,United Kingdom,18.8,0,0,18.8
+TT,Trinidad & Tobago,18.39,-10,-0.03,18.39
+EE,Estonia,18.21,-10,0,18.21
+CA,Canada,17.82,0,0,17.82
+EC,Ecuador,17.67,0,0,17.67
+MY,Malaysia,17.06,-20,-0.02,17.06
+FI,Finland,16.36,-20,-0.01,16.36
+PT,Portugal,15.74,0,0,15.74
+AX,Åland Islands,15.22,0,0,15.22
+PR,Puerto Rico,14.95,0,0.03,14.95
+NO,Norway,14.3,0,0,14.3
+UY,Uruguay,14.19,-230,-0.02,14.19
+AU,Australia,12.71,0,0,12.71
+PE,Peru,12.6,10,0.08,12.6
+IE,Ireland,12.58,0,0,12.58
+NZ,New Zealand,12.22,10,0,12.22
+TH,Thailand,11.42,-10,0.01,11.42
+CZ,Czechia,10.94,-10,0,10.94
+HU,Hungary,10.84,-40,0,10.84
+NL,Netherlands,10.59,0,0.01,10.59
+RO,Romania,10.11,-30,-0.01,10.11
+VN,Vietnam,8.72,0,0.01,8.72
+SI,Slovenia,8.08,0,0,8.08
+ZW,Zimbabwe,7.48,0,0.02,7.48
+LK,Sri Lanka,6.99,-10,0.02,6.99
+GT,Guatemala,6.75,-10,-0.02,6.75
+PL,Poland,6.16,0,0,6.16
+AT,Austria,5.85,0,0,5.85
+SA,Saudi Arabia,5.79,-20,-0.01,5.79
+MO,Macau,5.78,0,0.01,5.78
+KR,South Korea,5.74,0,0,5.74
+MX,Mexico,5.09,10,0.02,5.09
+BO,Bolivia,4.64,-20,0.01,4.64
+AR,Argentina,4.58,0,0,4.58
+BA,Bosnia & Herzegovina,4.41,-90,-0.02,4.41
+SE,Sweden,4.24,0,0,4.24
+SG,Singapore,4.12,0,0,4.12
+ZZ,Unknown Region,3.74,0,0.01,3.74
+FO,Faroe Islands,3.68,0,0.06,3.68
+SK,Slovakia,3.5,0,0,3.5
+AE,United Arab Emirates,2.58,0,0,2.58
+IL,Israel,2.51,0,0,2.51
+CN,China,2.44,0,-0.31,2.44
+DK,Denmark,2.15,0,0,2.15
+ES,Spain,1.69,0,0,1.69
+BG,Bulgaria,1.41,0,0,1.41
+RU,Russia,1.28,0,0,1.28
+DO,Dominican Republic,0.99,0,0,0.99
+IT,Italy,0.97,0,0,0.97
+TM,Turkmenistan,0.97,0,0.04,0.97
+OM,Oman,0.9,-10,0.01,0.9
+IS,Iceland,0.73,0,0,0.73
+SD,Sudan,0.71,-10,0.01,0.71
+IR,Iran,0.69,0,0.01,0.69
+TW,Taiwan,0.6,0,0,0.6
+BT,Bhutan,0.59,10,0.04,0.59
+MD,Moldova,0.52,0,0,0.52
+TZ,Tanzania,0.51,0,0.01,0.51
+EG,Egypt,0.47,0,0.01,0.47
+ZM,Zambia,0.44,-10,-0.04,0.44
+ZA,South Africa,0.43,-10,0.02,0.43
+BZ,Belize,0.31,0,0,0.31
+HK,Hong Kong,0.29,0,0,0.29
+UA,Ukraine,0.29,0,0.01,0.29
+SC,Seychelles,0.25,-20,0.02,0.25
+CO,Colombia,0.23,0,0,0.23
+PH,Philippines,0.22,-10,0,0.22
+KH,Cambodia,0.2,0,0,0.2
+CY,Cyprus,0.2,-10,0,0.2
+LV,Latvia,0.14,-10,0,0.14
+JE,Jersey,0.13,0,0.01,0.13
+ID,Indonesia,0.12,0,0,0.12
+LT,Lithuania,0.11,0,0,0.11
+GI,Gibraltar,0.09,0,0,0.09
+AF,Afghanistan,0.08,0,-0.04,0.08
+PY,Paraguay,0.08,0,0,0.08
+SV,El Salvador,0.07,-10,0,0.07
+RS,Serbia,0.07,0,0,0.07
+LR,Liberia,0.05,0,0.05,0.05
+MK,Macedonia (FYROM),0.05,0,0.01,0.05
+RW,Rwanda,0.05,0,0,0.05
+CM,Cameroon,0.04,0,0.02,0.04
+HR,Croatia,0.04,0,0,0.04
+GG,Guernsey,0.04,0,-0.01,0.04
+BY,Belarus,0.03,0,0,0.03
+CR,Costa Rica,0.03,0,0,0.03
+MC,Monaco,0.03,0,0.03,0.03
+NI,Nicaragua,0.03,0,0.02,0.03
+PK,Pakistan,0.03,0,0,0.03
+PA,Panama,0.03,0,0,0.03
+SR,Suriname,0.03,0,0,0.03
+VI,U.S. Virgin Islands,0.03,10,0.08,0.03
+YE,Yemen,0.03,-10,-0.01,0.03
+AM,Armenia,0.02,0,0.02,0.02
+CU,Cuba,0.02,0,0.3,2000.3
+GD,Grenada,0.02,0,-0.06,0.02
+IM,Isle of Man,0.02,0,-0.02,0.02
+LI,Liechtenstein,0.02,0,0.02,0.02
+MT,Malta,0.02,0,0,0.02
+MU,Mauritius,0.02,0,0.02,0.02
+QA,Qatar,0.02,0,0.01,0.02
+RE,Réunion,0.02,0,0.02,0.02
+TR,Turkey,0.02,0,0,0.02
+UG,Uganda,0.02,0,-0.02,0.02
+BD,Bangladesh,0.01,0,0.01,0.01
+BB,Barbados,0.01,0,0.01,0.01
+BJ,Benin,0.01,-10,0,0.01
+BF,Burkina Faso,0.01,-10,-0.1,0.01
+CL,Chile,0.01,0,0,0.01
+CI,Côte d’Ivoire,0.01,0,-0.02,0.01
+GQ,Equatorial Guinea,0.01,40,0.21,2000.21
+ET,Ethiopia,0.01,0,-0.04,0.01
+IQ,Iraq,0.01,0,0.01,0.01
+KE,Kenya,0.01,0,0.01,0.01
+MV,Maldives,0.01,0,0.01,0.01
+NC,New Caledonia,0.01,0,0.01,0.01
+NE,Niger,0.01,0,-0.11,0.01
+SX,Sint Maarten,0.01,10,0.03,0.01
+TG,Togo,0.01,0,0.05,0.01
+UZ,Uzbekistan,0.01,0,0.01,0.01
+AL,Albania,0,0,0.01,0
+DZ,Algeria,0,-10,0.01,0
+AS,American Samoa,0,10,-0.01,0
+AD,Andorra,0,0,-0.02,0
+AO,Angola,0,0,-0.03,0
+AI,Anguilla,0,0,0,0
+AQ,Antarctica,0,0,0,0
+AG,Antigua & Barbuda,0,-10,0.05,0
+AW,Aruba,0,0,0,0
+AZ,Azerbaijan,0,0,0.01,0
+BS,Bahamas,0,0,0,0
+BH,Bahrain,0,-10,-0.01,0
+BM,Bermuda,0,0,-0.01,0
+BW,Botswana,0,0,0.27,2000.27
+BV,Bouvet Island,0,0,0,0
+IO,British Indian Ocean Territory,0,0,0,0
+VG,British Virgin Islands,0,10,-0.01,0
+BN,Brunei,0,0,0.06,0
+BI,Burundi,0,0,0.02,0
+CV,Cape Verde,0,0,0,0
+BQ,Caribbean Netherlands,0,0,0,0
+KY,Cayman Islands,0,0,0.01,0
+CF,Central African Republic,0,-20,0.12,2000.12
+TD,Chad,0,0,0,0
+CX,Christmas Island,0,0,0,0
+CC,Cocos (Keeling) Islands,0,0,0,0
+KM,Comoros,0,10,0.34,2000.34
+CG,Congo - Brazzaville,0,-10,0.08,0
+CD,Congo - Kinshasa,0,10,-0.02,0
+CK,Cook Islands,0,0,0,0
+CW,Curaçao,0,0,-0.02,0
+AN,Curaçao,0,0,-0.05,0
+DJ,Djibouti,0,-10,0.1,2000.1
+DM,Dominica,0,0,0,0
+ER,Eritrea,0,0,0,0
+EU,European Union,0,0,0,0
+FK,Falkland Islands (Islas Malvinas),0,0,0,0
+FJ,Fiji,0,0,-0.03,0
+FX,France,0,0,0,0
+GF,French Guiana,0,0,-0.06,0
+PF,French Polynesia,0,0,0.01,0
+TF,French Southern Territories,0,0,0,0
+GA,Gabon,0,0,0.03,0
+GM,Gambia,0,-10,-0.08,0
+GE,Georgia,0,0,0,0
+DD,Germany,0,0,0,0
+GH,Ghana,0,0,-0.01,0
+GL,Greenland,0,10,-0.02,0
+GP,Guadeloupe,0,0,-0.01,0
+GU,Guam,0,0,-0.01,0
+GN,Guinea,0,0,0.04,0
+GW,Guinea-Bissau,0,0,0,0
+GY,Guyana,0,0,-0.04,0
+HT,Haiti,0,0,-0.02,0
+HM,Heard & McDonald Islands,0,0,0,0
+HN,Honduras,0,0,0,0
+JM,Jamaica,0,0,0.01,0
+JO,Jordan,0,-10,0,0
+KZ,Kazakhstan,0,10,0.01,0
+KI,Kiribati,0,0,0,0
+XK,Kosovo,0,0,0,0
+KW,Kuwait,0,0,0,0
+KG,Kyrgyzstan,0,0,-0.02,0
+LA,Laos,0,0,0,0
+LB,Lebanon,0,0,-0.01,0
+LS,Lesotho,0,0,0.02,0
+LY,Libya,0,-10,0.01,0
+MG,Madagascar,0,-10,-0.06,0
+MW,Malawi,0,0,-0.01,0
+ML,Mali,0,0,0.04,0
+MH,Marshall Islands,0,0,0,0
+MQ,Martinique,0,0,0,0
+MR,Mauritania,0,0,0.07,0
+YT,Mayotte,0,10,0.01,0
+FM,Micronesia,0,10,0.33,2000.33
+MN,Mongolia,0,0,0,0
+ME,Montenegro,0,-10,-0.02,0
+MS,Montserrat,0,0,0,0
+MA,Morocco,0,0,-0.01,0
+MZ,Mozambique,0,0,0.03,0
+MM,Myanmar (Burma),0,0,0,0
+NA,Namibia,0,0,-0.01,0
+NR,Nauru,0,0,0,0
+NP,Nepal,0,0,0,0
+NT,Neutral Zone,0,0,0,0
+NG,Nigeria,0,0,-0.01,0
+NU,Niue,0,0,0,0
+NF,Norfolk Island,0,0,0,0
+KP,North Korea,0,0,0,0
+MP,Northern Mariana Islands,0,-10,-0.09,0
+QO,Outlying Oceania,0,0,0,0
+PW,Palau,0,0,0,0
+PS,Palestine,0,0,0,0
+PG,Papua New Guinea,0,-10,0.04,0
+PN,Pitcairn Islands,0,0,0,0
+SU,Russia,0,0,0,0
+WS,Samoa,0,0,0,0
+SM,San Marino,0,0,0.05,0
+SN,Senegal,0,0,0.01,0
+YU,Serbia,0,0,0,0
+SL,Sierra Leone,0,0,-0.07,0
+SB,Solomon Islands,0,10,0.03,0
+SO,Somalia,0,-10,-0.03,0
+GS,South Georgia & South Sandwich Islands,0,0,0,0
+SS,South Sudan,0,10,-0.01,0
+BL,St. Barthélemy,0,0,0,0
+SH,St. Helena,0,0,0,0
+KN,St. Kitts & Nevis,0,0,-0.02,0
+LC,St. Lucia,0,0,0.01,0
+MF,St. Martin,0,-10,0.03,0
+PM,St. Pierre & Miquelon,0,0,0,0
+VC,St. Vincent & Grenadines,0,0,-0.03,0
+SJ,Svalbard & Jan Mayen,0,0,0,0
+SZ,Swaziland,0,0,-0.07,0
+SY,Syria,0,0,0.01,0
+ST,São Tomé & Príncipe,0,-10,0.11,2000.11
+TJ,Tajikistan,0,10,-0.09,0
+TL,Timor-Leste,0,10,-0.08,0
+TK,Tokelau,0,0,0,0
+TO,Tonga,0,-10,0.15,2000.15
+TN,Tunisia,0,-10,-0.01,0
+TC,Turks & Caicos Islands,0,-10,-0.03,0
+TV,Tuvalu,0,0,0,0
+UM,U.S. Outlying Islands,0,0,0,0
+VU,Vanuatu,0,10,-0.05,0
+VA,Vatican City,0,0,0,0
+VE,Venezuela,0,-10,-0.03,0
+WF,Wallis & Futuna,0,0,0,0
+EH,Western Sahara,0,0,0,0
+XA,XA,0,0,0,0
+XB,XB,0,0,0,0
+XC,XC,0,0,0,0
+YD,Yemen,0,0,0,0
